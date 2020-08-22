@@ -40,14 +40,14 @@
 		},
 		{
 			"title": "Virtual Classroom",
-			"iconCode": "0xe53b",
+			"iconCode": "0xe308",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF3B7BFC",
 			"file": "virtualClassRoom.json"
 		},
 		{
 			"title": "Shortcuts",
-			"iconCode": "0xe53b",
+			"iconCode": "0xe890",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF3B7BFC",
 			"file": "shortcuts.json"
