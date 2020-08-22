@@ -1,0 +1,52 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 60,
+	"data": [{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "redZone.jpg",
+			"content": "What is a Red zone?\n\nYou may randomly enter into the red zone during the battle. You are in danger here.  After a certain period of time, the zone gets bombed and once hit, player receives great damage. You are safe; if you're in a building within the red zone or out of the red zone, andcan avoid the bombing. You are in danger; if you are inside a vehicle because Vehicles will explode on bombing. It is safe to hide into a building when you're in the red zone.  "
+		}, {
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "airdrop-bg.png",
+			"content": "What is Air Drops?\n\nAirdrops are the random equipment drops from airplanes on Battleground. They are delivered periodically. Once the aircraft starts to deliver the air supplies, the sound of the engine can be heard from all around the island. Once the supply is dropped on the ground, a red smoke lets you know where it is. The air supply could contain rare guns that are only available from the air supplies. For this reason, the warriors are fighting for the supplies in the field. Watch out for other players! "
+
+
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "quest.jpg",
+			"content": "Can I chat while PUBGing ? \n\n You can voice chat with your co fighters while the battle, and there is noother type of chat system.At this time there are no plans for implementing a chat!"
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "bp.jpg",
+			"content": "Can I buy Battle Points?\n\n Sorry dude, there is no way to purchase Battle Point. The only option is to earn BP through playing the game. "
+
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "play-bg.jpeg",
+			"content": "How to play PUBG MOBILE? How to enter Training Ground?\nIf you are new to PUBG MOBILE or you want to practice the gaming skill, here are the instructions for you:\n\n1. You can review the [Tutorial] by clicking the triangular symbol on the right-bottom corner of the Lobby and select the [Tutorial] on the pop-up list.\n2. You can go to the [Training Ground] by click [Select Mode]. When you access the [Select Mode] interface, you can see the [target symbol] on the left-bottom corner of the interface."
+		}, {
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "kill.jpg",
+			"content": "What should I do if my teammates kill one another?\n\nWe currently have the Merit system in place to penalizes this kind of misconduct:\n1. Killing Teammates (detected by the system): 10-Merit loss on 1st offense. If there are multiple offenses within a 7-day period, then the 2nd offense will result in a 15-Merit loss, and each subsequent offense will result in a 30-Merit loss.\n2. Killing Teammates (reported by players): 20-Merit loss on 1st offense. If there are multiple offenses within a 7-day period, then the 2nd offense will result in a 30-Merit loss, and each subsequent offense will result in a 60-Merit loss."
+		}
+	]
+}

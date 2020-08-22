@@ -1,0 +1,136 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 60,
+	"data": [{
+			"title": "WEAPONS",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "weapons_bg.jpg",
+			"content": "Before moving to the weapons you should better to the features of the weapon and how much deadlier it is.These are the main features of consideration.\n Damage: The per shot damage without any multipliers applied.\n Magazine Capacity: The amount of Ammo you can fit into your gun at one time.\n Fire Rate: The effective rate of fire, in other words, the time between each bullet shot.\n Range: The effective range before the damage is reduced to 0.(Measured using Zeroing) \n Bullet Speed: The speed in which the bullet travels from the barrel of the gun to aimed location.(The Higher the Number the less you will need to lead your shoots.) \n "
+		}, {
+			"title": "",
+			"gadTop": false,
+			"gadBottom": true,
+			"backgroundImage": "ar_bg.jpg",
+			"content": "",
+			"imageData": [{
+				"image": "ar-title.jpg",
+				"title": "Assault Rifles",
+				"titleFontColor": "0xfff7eae8",
+				"gadTop": true,
+				"gadBottom": false,
+				"file": "assaultRifle.json",
+				"description": "Assault Rifles are extremely popular among PUBG Mobile players and one of the most used in the game "
+			}]
+
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "sg_bg.jpg",
+			"imageData": [{
+				"image": "shotGuns.jpg",
+				"title": "Shot Guns",
+				"gadTop": false,
+				"gadBottom": false,
+				"titleFontColor": "0xfff7eae8",
+				"file": "shotGuns.json",
+				"description": "There is a wide assortment of weapons available for players to use in PUBG Mobile. Among them, shotguns are very useful in close encounters and can knock opponents out quite easily during such skirmishes. Players usually underestimate shotguns, but they are quite lethal if you know how to use them properly "
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "sniper_bg.jpg",
+			"imageData": [{
+				"image": "sniper-title.jpg",
+				"title": "Sniper Guns",
+				"gadTop": false,
+				"gadBottom": false,
+				"titleFontColor": "0xfff7eae8",
+				"file": "sniperGuns.json",
+				"description": "If you want to kill someone who is significantly far from your position, you can always aim with a sniper rifle and go for a headshot. Depending on the sniper rifle, it can very well be a neat kill. "
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": false,
+			"backgroundImage": "wdmr_bk.jpg",
+			"imageData": [{
+				"image": "dmr-fg.jpg",
+				"title": "DMR",
+				"gadTop": false,
+				"gadBottom": true,
+				"file": "dmr.json",
+				"titleFontColor": "0xfff7eae8",
+				"description": "DMRs fill the gap between AR and Bolt action sniper rifles in PUBG Mobile. There are six different types of DMRs available in PUBG Mobile. Some of them are available on all the maps in the game while some others are available only in selective maps. "
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "smg_bk.jpg",
+			"imageData": [{
+				"image": "smg-title.jpg",
+				"title": "Sub Machine Guns",
+				"gadTop": false,
+				"gadBottom": false,
+				"titleFontColor": "0xfff7eae8",
+				"file": "subMachineGuns.json",
+				"description": "The SMGs are the guns that the players tend to use a lot as they are invaluable for close-range combat and do not have a very high recoil. "
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "pistols_bg.jpg",
+			"imageData": [{
+				"image": "pistol-fg.jpg",
+				"title": "Pistols",
+				"titleFontColor": "0xfff7eae8",
+				"gadTop": false,
+				"gadBottom": false,
+				"file": "pistols.json",
+				"description": "Pistols are great secondary weapons, but they can also function as primaries. Because they do decent damage at decent range, they're sort of an all around okay weapon. Replace with an actual main weapon as soon as you can, though, because the limited ammo carry and damage rating will harm you in the long run."
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "lmg_bk.jpg",
+			"imageData": [{
+				"image": "lmg-title.jpg",
+				"title": "Light Machine Guns",
+				"titleFontColor": "0xfff7eae8",
+				"gadTop": false,
+				"gadBottom": false,
+				"file": "lightMachineGuns.json",
+				"description": "Light Machine Guns are essentially weapons that boast higher rate of fire over Assault Rifles and a slight increase in bullet damage, but with a much higher drop off in terms of range and ammo carrying capacity. While LMGs themselves can fire more bullets, they go through these bullets much faster, and because of how many of them there are, you go through them a lot faster too. This limits their usefulness dramatically."
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "pan_bg.png",
+			"imageData": [{
+				"image": "pan-title.jpg",
+				"title": "Pan",
+				"gadTop": false,
+				"gadBottom": false,
+				"titleFontColor": "0xfff7eae8",
+				"description": "A cast-iron pan purposely built for cooking up hate for your enemies.In the game, the pan is capable of killing an unarmored opponent in two hits on the body or one hit to the head. The pan will also block bullets fired at players while equipped and while unequipped, allowing it to act as a small shield. It blocks shots from all ranged weapons in the game, including shotguns and the AWM. For these reasons, it is regarded as the best melee weapon in the game."
+			}]
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "Pistols",
+		"gadTop": true,
+		"gadBottom": false,
+		"backgroundImage": "weapons-bg.jpg",
+		"imageData": [{
+				"image": "p1911.png",
+				"titleFontColor": "0xff99ffdd",
+				"title": "P1911",
+				"gadTop": false,
+				"gadBottom": true,
+				"description": "The P1911 packs a punch in a small package. Its damage output is limited only by the small magazine size and the skill of its operator. It is therefore advisable to find an extended or extended quickdraw magazine as soon as possible if planning to keep this weapon as its magazine capacity is almost doubled, greatly increasing its potential as a backup weapon. Due to its slow muzzle velocity of 250 meters per second, it is inadvisable to use this gun at ranges further than 50 meters."
+			},
+			{
+				"image": "P92.png",
+				"title": "P92",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "The P92 is the middle ground of the pistols, with a balance of firepower and ammo capacity. With a modest rate of fire and steady hands, this pistol can quickly determine the winner in early game fights while everyone is rushing to find guns. It makes a good backup weapon for emergencies and while extended magazines may seem tempting due to the capacity increase, quickdraw magazines may prove more beneficial for users who frequently reload, at least until extended quickdraw magazines can be found."
+			},
+			{
+				"image": "9mm.jpg",
+				"title": "9mm",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "The 9x19mm pistol is a common pistol type manufactured for both combat and police applications, with many civilian models as well. The 9mm chamber is incredibly powerful, though less so arguably than some .45 rounds, and with less range. The 9mm chamber is incredibly common, unlike other more proprietary round chambers, so the 9 mm gun name could theoretically refer to a wide range of possible weapons, platforms, and configurations."
+			},
+			{
+				"image": "r1985.png",
+				"title": "R1895",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "The R1895 is one of the most challenging weapons to use, in that it has severe drawbacks that usually negate its benefits. Its extremely long reload time (with empty reloads being almost as slow as reloading an M249), inability to mount a red dot sight and fire rate slower than any of the other pistols make it a last resort weapon in nearly every situation, unless when sneaking up on players."
+			},
+			{
+				"image": "r45.jpg",
+				"title": "R45",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "A powerful revolver that can be seen as Miramar's version of the R1895, it has one less round than the R1895, but reloads with a speedloader instead of loading individual rounds, greatly reducing reload time. It also uses the common .45 Ammo instead of 7.62mm rounds. Like the R1895, it can only accept one type of attachment, but instead of a suppressor it can only mount a red dot sight instead, allowing for a clearer sight picture, although the existing sights are relatively clear compared to the R1895."
+			},
+
+			{
+				"image": "FLARE GUN.jpg",
+				"title": "Flare Gun",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "The Flare gun is an extremely rare weapon that when fired, calls in a custom air drop that drops a larger amount of highly valuable equipment compared to the ordinary air drop. Once a flare is fired straight up into the air and reaches an altitude of 200 meters, a plane will soon fly over the map and drop off either a crate if the player is inside the safe zone, or a BRDM-2 if outside. Firing a flare at a player causes no damage"
+			},
+			{
+				"image": "skorpion.jpg",
+				"title": "Skorpion",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "A full-sized machine pistol that occupies the sidearm slot, the Skorpion is very controllable for such a weapon, even when fired in full auto. With a 20 round magazine as standard and capable of being increased to 40, it can serve as a dependable pocket SMG to free up the other weapon slots for more powerful guns. It should be noted however that its inability to accept quickdraw or extended quickdraw magazines leave it with a rather lengthy reload time for a sidearm."
+			},
+			{
+				"image": "deagle.jpg",
+				"title": "Deagle",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "The Deagle (Also known as desert eagle) is a high damage up-close-and-personal weapon, but with the Laser Sight attached it can have a boost to its hipfire accuracy. Compared to its counterparts this pistol has a higher than average muzzle recoil, energy and velocity. So powerful it can take down a Spetsnaz Helmet (Level 3) in 2 headshots in an instant."
+			}
+
+		]
+	}]
+}

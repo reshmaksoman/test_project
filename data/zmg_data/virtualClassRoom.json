@@ -1,0 +1,32 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+			"title": "Excell in virtual Classroom",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "Tips and Tricks for Virtual Lessons\n● For your first class, set aside some time to introduce your students to Zoom and ensure that they’re able to connect their audio and video.\n● Give an agenda or plan for each class by Screen Sharing a document or slide at the beginning of class. This gives students a clear idea of how the class will progress, what will be covered, and the activities they’ll engage in.\n● Discuss online etiquette and expectations of the students in your first virtual class and periodically revisit the topics.\n● Utilize the Whiteboard or Annotate a shared document and let your students engage as well. When sharing a whiteboard, document, screen, or image, try whiteboarding math problems or have a student use annotation to highlight items such as grammar mistakes in a paper you’re sharing.\n● Take time to promote questions, comments, and reactions from your class. Give a minute to allow your students to utilize reactions, write their questions in chat, or be unmuted to ask their questions live.\n● Divide into smaller groups for a discussion on a certain topic. You can use Zoom’s Breakout Room feature to either pre-assign or auto-assign students into groups for a short period of time so they may discuss things together.\n● Have students be the presenter and share projects with the class. This allows your students to show what they’re working on while practicing their presentation skills. It also allows students to hear from one another.",
+			"imageData": [{
+				"image": "chime.png",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"description": ""
+			}]
+		},
+		{
+			"title": "Teaching Over Video - Delivery Tips and Tricks",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": " ● Pre-set your meeting to mute participant’s microphones upon entry. This helps to avoid background noise and allow your students to focus on your lesson.\n● Look at the camera to create eye contact with your students. This helps to create a more personal connection while teaching over video.\n● Take a second to check chat or your student’s video (if on camera) to check-in with your students and get feedback.\n● Speak as if you’re face-to-face with the class while ensuring you’re at the appropriate distance from the microphone for the best audio experience.\n● When delivering a presentation, sharing images, files or video, give your students a moment to open or take in what you’ve shared.\n● Embrace the pause. Take a moment after the end of your comments and allow for students to engage before continuing on."
+		}
+	]
+}

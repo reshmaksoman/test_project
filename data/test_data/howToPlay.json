@@ -1,0 +1,30 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 180,
+	"data": [{
+			"title": "How to play",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "how-to-play-bg.jpg",
+			"content": "The beginners may find it very difficult on the first stages but the game is much fun and easier than you think. Before getting into the field, follow this path. PUBG is a 'Battle royale' genre game which is not all about FIGHT but about survival. You should survive at the end and that is the only thing which matters. You can become the last one standing without having to go through any combat. In this PUBG world, you have an option to participate in required combats and stay away from gun sounds as much as possible. However, you opt hiding over fight, you may not be able to buy out the better locations and also a very high chance of not being able to equip yourself with high end weapons. This is because, there's a higher chance of looting higher level items in dangerous areas.'Dangerous areas' means places like, the cities. Haven’t you heard of Pochinki, Military base, etc"
+		},
+		{
+			"title": "Let's Begin",
+			"backgroundImage": "play-bg.jpg",
+			"content": "Run game >> Go to lobby >> Select the mode type >> Click Play >> Once the matching is complete, you will automatically enter a game.",
+			"bgColor": "",
+			"imageData": [{
+				"image": "begin.jpg",
+				"title": "",
+				"titleFontColor": "",
+				"gadTop": false,
+				"gadBottom": true
+			}]
+		}
+	]
+
+}

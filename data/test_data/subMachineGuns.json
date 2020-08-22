@@ -1,0 +1,63 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "Sub Machine Guns",
+		"gadTop": true,
+		"gadBottom": false,
+		"backgroundImage": "weapons-bg.jpg",
+		"imageData": [{
+				"image": "ump9.jpg",
+				"title": "UMP9",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "UMP9 is one of the best guns in PUBG Mobile for close-range combats due to its decent damage of 38 and the high fire rate of 65. The weapon has a stability rating of 57, and due to the gun's severe damage, it is preferred by a lot of players. The UMP uses the .45 rounds "
+			},
+			{
+				"image": "Tommygun.png",
+				"title": "Tommy Gun",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Firing the slow but hard-hitting .45 ACP cartridge, this vintage submachine gun deals the most damage out of all the SMGs, however the inability of this gun to attach sights, coupled with its relatively strong recoil makes it a challenge to use, even in close quarters combat. Extended magazines are highly recommended as the reload time remains unchanged, while magazine capacity is almost doubled. "
+			},
+			{
+				"image": "PP19Bizon.jpg",
+				"title": "PP-19 Bizon",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Right at home in its Eastern European origins, this weapon is exclusive to Erangel and Vikendi. While in full-auto, its best suited for quick and accurate sparring in close-range. Because of the unique helical magazine that runs along the barrel, this SMG doesn't support magazine upgrades or lower rail attachments. However, the weapon has high firing stability built-in, which allows for low recoil even without a grip. With only a muzzle and sight attachment to add, you'll have a fully kitted and reliable short-range weapon in your hands faster than ever before. "
+			},
+			{
+				"image": "MP5K.jpg",
+				"title": "MP5K",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "The MP5K is a sub-machine gun chambered for 9mm ammunition. While the firing mechanics of the MP5K are similar to those of the Vector, it boasts a higher per bullet damage, but with a lower overall firing rate and DPS "
+			},
+			{
+				"image": "vector.jpg",
+				"title": "Vector",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Vector is one of the best SMGs to use as the gun has five attachment slots.This is the highest number of slots compared to the other SMGs. It uses the .45 ACP ammunition, which is quite easy to find. The gun has a decent damage of 31 and has a stability of 68, which is why the Vector is one of the best SMGs. The only downside is the magazine size, which is quite small. It has a rate of fire of 56. "
+			},
+			{
+				"image": "micro uzi.jpg",
+				"title": "Micro UZI",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "UZI is one of the best weapons when it comes to close-range. The SMG has a very high rate of fire, and it can take an enemy down quite quickly. The gun uses the 9mm ammunition. The only downside of the UZI is that the damage dealt by the weapon is pretty low. However, if used correctly, UZI is a gun that comes in handy. It has a power rating of 25 and a rate of fire of 71. Other SMGs can also be used; they all depend on the playing style of the users and the players' proficiency with the gun. The MP5K is also a very good SMG with great stats but is only available in Vikendi."
+			}
+		]
+	}]
+}

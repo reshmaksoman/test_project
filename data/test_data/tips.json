@@ -1,0 +1,56 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 60,
+	"data": [{
+		"title": "Tips",
+		"gadTop": true,
+		"gadBottom": true,
+		"backgroundImage": "tips-bg.jpg",
+		"content": "1. Loot First Shoot later \n \n In the beginning stage, your most important loot is half-decent weapons, ammo, and some reasonable armor, as well as a backpack upgrade (up to level 3). Any gun is better than your fists or even the legendary PUBG frying pan, so grab any nearby firearms before engaging a fight. \nArmor is also crucial for your battle, so you can move quicker in battle field. Like the backpack, head and body armor is graded from level 1 to 3, but level 3 armor is fairly rare. Aim for level 2 armor before picking a scrap or level 1 at a bare minimum\nYour health is also very important in the battlefield. So the Health items are at your priority list. First aid kits are preferable, but bandages, painkillers, and the like will all help in a pinch. Thrown items like grenades will become more important later on as an offensive or distraction tool once the player count has diminished, but don’t be afraid to throw an explosive surprise if you come across an unsuspecting group early on."
+	}, {
+		"title": "",
+		"backgroundImage": "tips-1.jpg",
+		"content": "2. On Range shooting only\n\nOnce again let me remind you, once you are dead, you are dead. Battle field is a tricky place. Here hiding and attacking is a tricky balancing act, but you should never ever open fire unless you know your weapon has a chance of hitting the target.\nWhile knowing when you’re in range will take some practice for complete newcomers, if you have any experience with PvP shooters you’ll already have a fair understanding of the basics. Shotguns and SMGs are useful for up-close burst damage, assault rifles and pistols are good for mid-range fights, and sniper rifles are perfect for long distance pot shots.\nTry to keep complementary weapons on hand but it is not wise to   carry two weapons that fulfil the same purpose.",
+		"image": "",
+		"bgColor": "",
+                "gadTop": true,           
+		"gadBottom": true
+	}, {
+		"title": "",
+		"backgroundImage": "tips-bg.jpg",
+		"content": "3. Keep an eye on the map\n\nIf you’re getting used to the landscape of your battle field, you can have some incredible moves and will survive at the end of the game. Make sure you’re paying attention to the mini map and keeping an eye on the diminishing play area.\nIn PUBG, the only safe area lies within “The Circle”. This circle will begin to shrink at select times during the match and if you find yourself outside of it for too long, you’ll eventually die.\nThe damage you take in this electrified blue field will increase as the circle shrinks. Early on you’ll be fine for a few minutes, while in the very final stage you won’t last more than ten seconds.\nEach new circle will show on your map as a white outline, so if you watch your map you’ll always know where to go next. Slow peacefully in the early phases, but towards the end you’ll need to get moving to avoid death while also trying to steer clear of other players who will be doing the same thing. You should always be trying to remain in cover where possible, but if you do need to move, move quickly and with purpose.\nThe mini map also has one final trick up its sleeve that you absolutely need to look out for—a fire indicator. If you hear gunfire in your vicinity, have a quick glance at the map and it’ll show exactly where it’s coming from.",
+		"image": "",
+		"bgColor": "",
+                "gadTop": true, 
+		"gadBottom": true
+	}, {
+		"title": "",
+		"backgroundImage": "tips-1.jpg",
+		"content": "4. Hide and peep\n\n\nOnly the fittest survive in the battle field, remember always. As you are moving towards the end, fighters lying around on the floor hoping someone else pop up first. That person usually gets domed immediately, by the way, so make sure it isn’t you.\nGoing fully prone in PUBG is an important maneuver, so much so that it has its own dedicated button. It’s also a double-edged sword, however, as while you’ll get a nice recoil and accuracy boost and generally is a little more hidden, mobility is almost non-existent.\nIf someone approaches you from behind while you’re on your chest, you’re almost definitely going to end up dead—especially if you’re looking through a scope at the same time. Keep an eye on your mini map and the surroundings before hitting the floor, and don’t be afraid to flank your opponents when they’re lying down.\nWhen out in the open, taking advantage of rocks and the sides of buildings for cover can be a much safer alternative. What PUBG doesn’t tell you is that you can actually peek around the side of cover without exposing your squishy limbs, but to do that you’ll have to take a quick trip to the Settings > Basic menu.\nSimply toggle Peek & Fire to “Enable” and you’ll be able to peer around corners. Just be aware that you’re far from invulnerable when doing this, as your head will lean with you, but you’ll be a much smaller target.\nOne final point on controls: remap the buttons if you need to. There are three presets for both general and vehicle controls to choose from, but if you can tweak these even further by hitting the Customize option. You can move around every single aspect of the HUD to your liking, increase button sizes, and alter icon transparency, and you can also reset everything to default if you mess up.",
+		"image": "",
+		"bgColor": "",
+                "gadTop": true, 
+		"gadBottom": true
+	}, {
+		"title": "",
+		"backgroundImage": "tips-bg.jpg",
+		"content": "5. Communicate with your squadmates\n\nPUBG can be very lonely when you’re squatting in a field somewhere all alone, just waiting for a chance to strike. That all changes in duo or group play where strategic play and constant communication are keys to victory.\nAlmost every aspect of PUBG changes in co-op, be it choosing a place to land, deciding who takes what loot, picking a target, or even calling who gets to ride shotgun in a vehicle. Attacking in numbers is far safer than splitting up, but equally, you’ll need to maintain a little distance from your allies from time to time to flank opponents and hold vantage points.Thankfully, PUBG Mobile supports native voice chat using your device’s speakers and microphone, although you will have to enable the latter in Settings > Audio. You can even choose your language to ensure you can communicate effectively with your squad.\nAlternatively, if you have a few buddies, you can always use voice and chat apps like Discord. If you absolutely must remain quiet, make sure to at least use the game’s built-in quick chat feature. It lets you send messages like “I’ll cover you” or “Enemies ahead” at the tap of a button.",
+		"image": "",
+		"bgColor": "",
+                "gadTop": true, 
+		"gadBottom": true
+	}, {
+		"title": "",
+		"backgroundImage": "tips-1.jpg",
+		"content": "6. Know your maps\n\nWhile most of PUBG Mobile’s maps are more than familiar to fans of PUBG, it’s important to learn weapon and item spawns in each map in order to maximize your chances of winning. This will not only influence your landing spot, but also where you should move as the match progresses.\nKnowing your maps is even more important now that Miramar, Sanhok, and the newly added  Vikendi have all been added to the game. In the case of Vikendi, the map features a few extras like snow mobiles.\nYou’ll learn the best hiding spots as you play, but you can learn faster by limiting the maps in the pool by unselecting them before starting a match. Do this and you’ll be an expert in no time at all.",
+		"image": "",
+		"bgColor": "",
+                "gadTop": true,      
+		"gadBottom": true
+	}]
+
+}

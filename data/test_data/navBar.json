@@ -1,0 +1,50 @@
+{
+	"navBarTitle": "",
+	"navBarImage": "",
+	"navBarItem": [
+    	{
+			"title": "How to play",
+			"iconCode": "0xe039",
+			"fontColor": "0xff808000",
+			"bgColor": "0xfff7eae8",
+			"file": "howToPlay.json"
+		},
+    {
+			"title": "Weapons",
+			"iconCode": "0xe80e",
+			"fontColor": "0xff808000",
+			"bgColor": "0xfff7eae8",
+			"file": "weapons.json"
+		},
+		 {
+			"title": "Throwables",
+			"iconCode": "0xe019",
+			"fontColor": "0xff808000",
+			"bgColor": "0xfff7eae8",
+			"file": "Throwables.json"
+		},
+ 
+    {
+			"title": "Maps",
+			"iconCode": "0xe56b",
+			"fontColor": "0xff808000",
+			"bgColor": "0xfff7eae8",
+			"file": "maps.json"
+		},
+    
+	  {
+			"title": "Tips",
+			"iconCode": "0xe85d",
+			"fontColor": "0xff808000",
+			"bgColor": "0xfff7eae8",
+			"file": "tips.json"
+		},
+		{
+			"title": "FAQ",
+			"iconCode": "0xe339",
+			"fontColor": "0xff808000",
+			"bgColor": "0xfff7eae8",
+			"file": "faq.json"
+		}
+	]
+}

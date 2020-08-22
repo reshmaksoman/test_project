@@ -1,0 +1,23 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "How to download",
+		"gadTop": true,
+		"gadBottom": true,
+		"backgroundImage": "",
+		"bgColor": "0xFF90CAF9",
+		"content": " Both android and iPhobes support the zoom usage. You can download and install Zoom on your Android smartphone or your iPhone, since it's available for both. In case you want more screen space and viewing options, you can also download the app on your computer visiting zoom.us/download. With that said, you can also use Zoom via Google Chrome or Firefox browsers also.",
+		"imageData": [{
+			"image": "zoomPlayStore.PNG",
+			"title": "",
+			"gadTop": true,
+			"gadBottom": false,
+			"description": ""
+		}]
+	}]
+}

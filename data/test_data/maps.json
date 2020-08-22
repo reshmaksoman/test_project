@@ -1,0 +1,54 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "WELCOME to the STARTING ISLAND!",
+		"gadTop": true,
+		"gadBottom": false,
+		"backgroundImage": "starting island-bg.png",
+		"content": "Now officially welcome to the PUBG club. Starting island welcome you to the battle field. This is a small island where the PUBG game begins and players wait before going on the aircraft. You can enjoy the guns before the battle begins. Also, you can always return to the starting island after getting off the aircraft by swimming or riding a boat.",
+		"imageData": [{
+			"image": "erangel-bg.jpg",
+			"title": "Erangel",
+			"titleFontColor": "0xfff7eae8",
+			"gadTop": true,
+			"gadBottom": true,
+			
+			"description": "Erangel is the base map for the game. An 8x8 km map dotted with small outcroppings of buildings, the distance between major landmarks necessitates the use of vehicles to move between areas. As the game continues, the map area will be restricted to a smaller and smaller play area. A red circle will appear on the map from time to time, marking an area for offshore artillery to bombard. Erangel has varying weather, sometimes affecting visibility and requiring a change in tactics. "
+		}, {
+			"image": "miramer-bg.jpg",
+			"titleFontColor": "0xff99ffdd",
+			"title": "Miramer",
+			"gadTop": false,
+			"gadBottom": true,
+			"description": "Miramar offers unique terrain and dense urban areas. With an island to the south east home to a prison and smaller villages, the entire area is cut off from the west and north-east by enormous canyons and mountains, with a looming metal wall to the north keeping outsiders out, and players in. Miramar will create a new Battle Royale experience where the old strategies from Erangel may no longer work and new tactics are required. "
+		}, {
+			"image": "vikendi-bg.png",
+			"titleFontColor": "0xff99ffdd",
+			"title": "Vikendi",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "An isolated Northern resort island in the shadow of Mount Kreznic, Vikendi was home to a wide variety of attractions, businesses and villages. Vikendi is enveloped in dense/thick forest and another aspect of the island is its warm Mediterranean coastline and snowy mountains in the central area of the map "
+		}, {
+			"image": "sanhok-bg.jpg",
+			"title": "Sanhok",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Sanhok (Codename: Savage) is the 3rd playable map but the 4th map in total for BATTLEGROUNDS, Sanhok is a 4x4km island compared to other maps that are 8x8km. Sanhok is the first map where BATTLEGROUNDS implemented a dynamic circle. This dynamic circle sees how many players are alive then will calculate if the blue zone should move faster or slower throughout the match. "
+		}, {
+			"image": "karakin-bg.jpg",
+			"title": "Karakin",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Karakin (Codename: Rapide) is the 5th playable map for BATTLEGROUNDS, Karakin is a 2x2km island off the coast of Northern Africa. Karakin is the first map where BATTLEGROUNDS implemented a Black Zone, where the layout changes every match "
+		}]
+	}]
+
+}

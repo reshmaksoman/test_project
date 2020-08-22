@@ -1,0 +1,64 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "DMR",
+		"gadTop": true,
+		"gadBottom": false,
+		"backgroundImage": "weapons-bg.jpg",
+		"imageData": [ 
+				{
+					"image": "mk14.jpg",
+					"title": "MK14",
+					"gadTop": false,
+					"gadBottom": true,
+					"titleFontColor": "0xfff7eae8",
+					"description": "MK14 is one of those DMRs that PUBG Mobile players do not get so easily, as it is the best one in the game and found only in airdrops. It can be chosen for close-range combat as well, due to its ability to fire successive bullets quicker than other snipers. It has a damage rate of 61 and uses 7.62mm ammo. "
+				},
+				{
+					"image": "slr.jpg",
+					"title": "SLR",
+					"gadTop": false,
+					"gadBottom": true,
+					"titleFontColor": "0xfff7eae8",
+					"description": "SLR has a damage rate of 58, with a high recoil and magazine capacity of 10 bullets, which can be extended up to 20. "
+				},
+				{
+					"image": "sks.jpg",
+					"title": "SKS",
+					"gadTop": false,
+					"gadBottom": true,
+					"titleFontColor": "0xfff7eae8",
+					"description": "SKS has the lowest range among DMRs, but provides a damage of 53. It uses 7.62mm ammo, but is not good for shooting at a target located far away, because of its recoil. "
+				},
+				{
+					"image": "mini14.jpg",
+					"title": "Mini 14",
+					"gadTop": false,
+					"gadBottom": true,
+					"titleFontColor": "0xfff7eae8",
+					"description": "Mini 14 uses 5.56mm ammo and gives quite less damage, at 46 points. This DMR is great for long-range combat, however, thanks to a scope attachment feature. While damage is not that great, a good aim can ensure maximum damage. "
+				},
+				{
+					"image": "qbu.jpg",
+					"title": "QBU",
+					"gadTop": false,
+					"gadBottom": true,
+					"titleFontColor": "0xfff7eae8",
+					"description": "The substitute for Mini 14 in the Sanhok map is QBU. Both have almost identical features except for the damage given by the latter. QBU has a damage rate of 48, which is slightly more than the Mini 14 "
+				},
+				{
+					"image": "vss.jpg",
+					"title": "",
+					"gadTop": false,
+					"gadBottom": true,
+					"titleFontColor": "0xfff7eae8",
+					"description": "This is one of those DMRs that PUBG Mobile players abstain from using. This gun uses 9.9mm bullets and is equipped with a suppressor and scope. The range is not that great, and the damage is also only 41, contributing to its lack of popularity. "
+				}
+		]
+	}]
+}

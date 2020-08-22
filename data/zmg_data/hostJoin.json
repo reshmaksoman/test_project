@@ -1,0 +1,54 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+			"title": "Hosting/ joining to a zoom meet",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": " In every zoom meeting you can be  a guest or a host. If you are a host you have to create a meeting ID and share it with your friends whom you are willing to invite to meeting. If you are a guest you can join the meeting by using the meeting ID and password given by your host. \n\n In your smartphone, open the zoom app > sign in/sign up using registerd user id and password > tap New Meeting which is a button on the top-left corner. Select if you wish to keep your video on or off. Below you'll get a Meeting ID, which has to be shared with participants and let them join your Zoom meeting. You can also allow people with your meeting ID to directly join the room or you can disable this to require a password along with your meeting ID to join. Once this is set, tap Start a Meeting and your team is ready for a 'Zoom'.",
+			"imageData": [{
+				"image": "host.png",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"description": ""
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": " Similarly, if you're a participant then just ask the host for the meeting ID. After that open the zoom > tap Join a meeting. Then  enter the Meeting ID and password on the next page.  Just enter the details and you'll be able to join the meeting.",
+			"imageData": [{
+				"image": "guest.png",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"description": ""
+			}]
+		},
+		{
+			"title": "Zom meeting on your computer",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": " You can also host and join in Zoom on your computer. For that open the app and log in. Once you've logged in, click on the small bottom facing arrow icon next to the Meeting button. Over here, check the options similar to how it's done on the phone. After that, click on Meeting to start. To join Zoom meeting,  open Zoom and click Join. Select if you want to share your audio or not, also choose if wish to share your video or not, and click on Join to get started. You don't need to install Zoom to join meetings. This can be done through the Web browser if you have a link to any Zoom meeting, but be sure to ignore the prompt to install the Zoom app. Once you ignore this, you will be able to join the meeting through the browser.",
+			"imageData": [{
+				"image": "zoomComputer.png",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"description": ""
+			}]
+		}
+	]
+}

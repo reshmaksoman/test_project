@@ -1,0 +1,221 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 60,
+	"data": [{
+		"title": "WEAPONS",
+		"gadTop": true,
+		"gadBottom": true,
+		"backgroundImage": "weapons-bg.jpg",
+		"content": "Before moving to the weapons you should better to the features of the weapon and how much deadlier it is.These are the main features of consideration.\n Damage: The per shot damage without any multipliers applied.\n Magazine Capacity: The amount of Ammo you can fit into your gun at one time.\n Fire Rate: The effective rate of fire, in other words, the time between each bullet shot.\n Range: The effective range before the damage is reduced to 0.(Measured using Zeroing) \n Bullet Speed: The speed in which the bullet travels from the barrel of the gun to aimed location.(The Higher the Number the less you will need to lead your shoots.) \n ",
+		"imageData": [{
+			"image": "ar.jpg",
+			"title": "Assault Rifle",
+			"titleFontColor": "0xfff7eae8",
+			"gadTop": true,
+			"gadBottom": false,
+			"file": "image.json",
+			"description": "Assault Rifles are extremely popular among PUBG Mobile players and one of the most used in the game "
+		}, {
+			"image": "m416.jpg",
+			"titleFontColor": "0xff99ffdd",
+			"title": "M416",
+			"gadTop": false,
+			"gadBottom": true,
+			"description": "Base Damage: 43\n Magazine Capacity: 30\n A favourite of both new players and old veterans, the M416 is one of the smartest choices, offering great mid - range damage, the only area the M416 falls short is its ridiculous recoil, but it is manageable with the correct attachments."
+		}, {
+			"image": "scar-l.jpg",
+			"title": "SCAR-L",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Base Damage: 43\n Magazine Capacity: 30\n A staple in the shooter genre, the SCAR - L is extremely reliable and only concedes to the M416 in terms of Range but offers way better Recoil control,making it an extremely reliable AR."
+		}, {
+			"image": "m16a4.jpg",
+			"title": "M16A4",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Base Damage- 43\n Magazine Capacity - 30\n A classic upgrade on the cold - war era weapon M16, which is a staple of modern shooters.The M16A4 is a powerful AR with great range but the Rate of Fire is much slower than other ARs."
+		}, {
+			"image": "groza.jpg",
+			"title": "GROZA",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Base Damage- 49\n Magazine Capacity - 30 \n GROZA is a rare AR that is available only in Air Drop loot,and is one of the best guns in the game,with the Rate of Fire only second best to M416 but the damage dealt is significantly higher,similar to AKM."
+		}, {
+			"image": "akm.jpg",
+			"title": "AKM",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Base Damage- 49\n Magazine Capacity: 30\n The AKM is a scary weapon to weild as it high as one of the highest damage counts in the game.A variation on the popular AK - 47,the AKM only comes up short in the Recoil department,which can be controlled with attachments."
+		}, {
+			"image": "aug.jpg",
+			"title": "AUG A3",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Base Damage- 43\n Magazine Capacity - 30 \n The AUG A3 is an essential weapon if you like to rush your enemies than picking them off from a distance.It offers great damage from close to mid - range,and is the perfect AR for a rusher playstyle."
+		}, {
+			"image": "shotGuns.jpg",
+			"title": "Shot Guns",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "There is a wide assortment of weapons available for players to use in PUBG Mobile. Among them, shotguns are very useful in close encounters and can knock opponents out quite easily during such skirmishes. Players usually underestimate shotguns, but they are quite lethal if you know how to use them properly "
+		}, {
+			"image": "s12k.jpg",
+			"title": "S12K",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "It is the best shotgun available in PUBG Mobile. S12K is quite devastating in close-range combats courtesy its capability of taking down multiple enemies through a semi-automatic feature and a high fire rate damage. The weapon uses the 12-gauge ammo and has a magazine size of 5 that can be extended to 8. "
+		}, {
+			"image": "dbs.jpg",
+			"title": "DBS",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "The next gun on this list is DBS. It is a double-barreled pump-action shotgun and can only be found in airdrops. DBS is a nine-pellet gun and has a base damage of 26. The weapon can fire a massive burst of bullets in a short duration. This gun uses a 12-gauge ammunition and has a magazine size of 14. "
+		}, {
+			"image": "s1897.jpg",
+			"title": "S1897",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "S1897 has a base damage of 26 and comes with a decent magazine size of 5 shells. Thus, players do not need to actively reload the weapon during close combats. The biggest drawback of this gun is the long reload time which is quite frustrating. So if you have fired off all your shots, the time to switch weapons has arrived.  "
+		}, {
+			"image": "s686.jpg",
+			"title": "S686",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "S686 can fire off two 12-gauge bullets very quickly and is an absolute beast in close-range battles. All you have to do is be accurate with your shots because the gun has a long reload time and only a two-bullet magazine. This makes it quite tough to use. The gun has a base damage of 2."
+		}, {
+			"image": "sawed-off.jpg",
+			"title": "Sawed-off",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Sawed-off can be termed a mini S686. It is a dual-barrel shotgun with higher spread than S686 due to the shorter barrel. S686 is an exclusive shotgun that fits into the handgun slot. The range of this gun is far less than the others on this list, however."
+		}, {
+			"image": "sniper-guns.jpg",
+			"title": "Sniper Guns",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "If you want to kill someone who is significantly far from your position, you can always aim with a sniper rifle and go for a headshot. Depending on the sniper rifle, it can very well be a neat kill. "
+		}, {
+			"image": "awm.jpg",
+			"title": "AWM",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "The best and the most powerful sniper in the world of PUBG Mobile is AWM. This gun cannot be found in the buildings or looting spots in the maps but in airdrops. If you are lucky enough to kill a person possessing an AWM, you can loot it from him/her as well. AWM uses .300mm magnum rounds and has to be used very carefully. It gives a maximum damage of 105 and has the longest range. An AWM with an 8x scope is a deadly combination. Make sure that you have good aim before opting for an AWM as bullets are limited. "
+		}, {
+			"image": "m24.jpg",
+			"title": "M24",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "M24 is the second best sniper in the game and has good range. It has a magazine of 5 bullets but you can extend it up to 7. It is powerful and gives a damage of 79. "
+		}, {
+			"image": "kar98k.jpg",
+			"title": "Kar98k",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Kar98k can be found in buildings and loots spots in and around the map. It is not very easily available and depends on luck. It uses 7.62mm bullets and has decent damage rate of 75, which is a bit more than M24. It can hold up to 5 bullets only and has better range than most of the snipers after AWM and M24. "
+		}, {
+			"image": "win94.jpg",
+			"title": "Win94",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "This sniper rifle, which uses .45 ACP bullets, is new to PUBG Mobile and is the least favorite sniper rifle of PUBG Mobile players. One of the major disadvantages of this sniper is that you cannot attach a scope to it, thus rendering the main essence of sniping useless. It, thus cannot be used for long-range shooting. The gun provides a damage of 66. "
+		}, {
+			"image": "dmr.jpg",
+			"title": "DMR",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "DMRs fill the gap between AR and Bolt action sniper rifles in PUBG Mobile. There are six different types of DMRs available in PUBG Mobile. Some of them are available on all the maps in the game while some others are available only in selective maps. "
+		}, {
+			"image": "mk14.jpg",
+			"title": "MK14",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "MK14 is one of those DMRs that PUBG Mobile players do not get so easily, as it is the best one in the game and found only in airdrops. It can be chosen for close-range combat as well, due to its ability to fire successive bullets quicker than other snipers. It has a damage rate of 61 and uses 7.62mm ammo. "
+		}, {
+			"image": "slr.jpg",
+			"title": "SLR",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "SLR has a damage rate of 58, with a high recoil and magazine capacity of 10 bullets, which can be extended up to 20. "
+		}, {
+			"image": "sks.jpg",
+			"title": "SKS",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "SKS has the lowest range among DMRs, but provides a damage of 53. It uses 7.62mm ammo, but is not good for shooting at a target located far away, because of its recoil. "
+		}, {
+			"image": "mini14.jpg",
+			"title": "Mini 14",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Mini 14 uses 5.56mm ammo and gives quite less damage, at 46 points. This DMR is great for long-range combat, however, thanks to a scope attachment feature. While damage is not that great, a good aim can ensure maximum damage. "
+		}, {
+			"image": "qbu.jpg",
+			"title": "QBU",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "The substitute for Mini 14 in the Sanhok map is QBU. Both have almost identical features except for the damage given by the latter. QBU has a damage rate of 48, which is slightly more than the Mini 14 "
+		}, {
+			"image": "vss.jpg",
+			"title": "VSS",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "This is one of those DMRs that PUBG Mobile players abstain from using. This gun uses 9.9mm bullets and is equipped with a suppressor and scope. The range is not that great, and the damage is also only 41, contributing to its lack of popularity. "
+		}, {
+			"image": "smg.jpg",
+			"title": "Sub Machine Guns",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "The SMGs are the guns that the players tend to use a lot as they are invaluable for close-range combat and do not have a very high recoil. "
+		}, {
+			"image": "ump9.jpg",
+			"title": "UMP9",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "UMP9 is one of the best guns in PUBG Mobile for close-range combats due to its decent damage of 38 and the high fire rate of 65. The weapon has a stability rating of 57, and due to the gun's severe damage, it is preferred by a lot of players. The UMP uses the .45 rounds "
+		}, {
+			"image": "vector.jpg",
+			"title": "Vector",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "Vector is one of the best SMGs to use as the gun has five attachment slots.This is the highest number of slots compared to the other SMGs. It uses the .45 ACP ammunition, which is quite easy to find. The gun has a decent damage of 31 and has a stability of 68, which is why the Vector is one of the best SMGs. The only downside is the magazine size, which is quite small. It has a rate of fire of 56. "
+		}, {
+			"image": "micro uzi.jpg",
+			"title": "Micro UZI",
+			"gadTop": false,
+			"gadBottom": true,
+			"titleFontColor": "0xfff7eae8",
+			"description": "UZI is one of the best weapons when it comes to close-range. The SMG has a very high rate of fire, and it can take an enemy down quite quickly. The gun uses the 9mm ammunition. The only downside of the UZI is that the damage dealt by the weapon is pretty low. However, if used correctly, UZI is a gun that comes in handy. It has a power rating of 25 and a rate of fire of 71. Other SMGs can also be used; they all depend on the playing style of the users and the players' proficiency with the gun. The MP5K is also a very good SMG with great stats but is only available in Vikendi."
+		}]
+	}]
+
+}

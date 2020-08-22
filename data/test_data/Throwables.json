@@ -1,0 +1,102 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 60,
+	"data": [{
+			"title": "Throwables",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "throw-bg.jpg",
+			"content": "The throwable weapon type is perhaps the most consistently misused in the game. While they can do immediate damage, especially the Frag Grenade and Molotov Cocktail, they're best used as a denial weapon. By laying down fire and tossing these weapons into an area, you're denying this area to your adversary, allowing for greater control of their movement and their basic abilities. For instance, the Smoke Grenade can help obscure your movements, and the Stun Grenade can help to remove sight and sound from your adversary, at least temporarily.\n "
+		},
+		{
+			"title": "Smoke Grenade",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "throw-bg.jpg",
+			"imageData": [{
+				"image": "smoke.jpg",
+				"title": "",
+				"titleFontColor": "0xfff7eae8",
+				"gadTop": false,
+				"gadBottom": false,
+				"description": "Smoke grenades are a throwable device packed with a mixture of potassium chlorate, lactose, and typically a dye for signalling. The chemicals mix with air to create a smoke screen that temporarily removes battlefield awareness. "
+
+			}]
+		},
+		{
+			"title": "Frag Grenade",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "throw-bg.jpg",
+			"imageData": [{
+				"image": "FragGrenade.jpg",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"titleFontColor": "0xfff7eae8",
+				"description": "A Frag Grenade, colloquial for Fragmentation Grenade, is any grenade designed to use an explosive charge to fragment the outer shell of the grenade in a shaped or radial pattern. This fragmentation results in shrapnel, which spreads out in a pattern, causing severe damage to enemies within range, often killing them through massive internal damage or through pressure and shock when the grenade explodes in a closed space "
+			}]
+		},
+		{
+			"title": "Stun Grenade",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "throw-bg.jpg",
+			"imageData": [{
+				"image": "stun.jpg",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"titleFontColor": "0xfff7eae8",
+				"description": "The Stun Grenade will cause strong disorientation to everyone within the blast radius (~5m) in the form of a loud ringing and a strong reduction in framerate. If detonated within a player's cone of vision (based off the FPS camera), the player will be completely blinded by white light for several seconds.This grenade is meant to cause temporary, not permanent damage, and is great for non-mortal wounding, though it is often used as a precursor to armed conflict to clear rooms and buildings. "
+			}]
+		},
+		{
+			"title": "Molotov Cocktail",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "throw-bg.jpg",
+			"imageData": [{
+				"image": "molotov.jpg",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Molotov Cocktails create an area of fire on the ground around where they impact. Players hit by or passing through this area will be set aflame, doing constant damage over time. Molotov Cocktails can be used offensively, but don't bounce like other throwable weapons. Another potential use of a molotov cocktail is area denial. If you set the staircase on fire, players will not be able to pursue you up to higher floors, and you can use this extra time to set up a kill zone or escape off a balcony. Molotov cocktails can also be used defensively to obscure an enemy's line of sight, similar to a Smoke Grenade.\n Throwing a Molotov Cocktail is a two step process\nPress and HOLD the left mouse button to prime your molotov. This will start the detonation timer.\nWhen ready, release the left mouse button to launch your molotov along the parabolic arc outlined for you. "
+			}]
+		},
+		{
+			"title": "Sticky Bomb",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "throw-bg.jpg",
+			"imageData": [{
+				"image": "stickybomb.png",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"titleFontColor": "0xfff7eae8",
+				"description": "A brick of Composition-4 plastic explosive composed of four M112 demolition blocks wired to a detonator. "
+			}]
+		},
+		{
+			"title": "C4",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "throw-bg.jpg",
+			"imageData": [{
+				"image": "c4.png",
+				"title": "",
+				"titleFontColor": "0xfff7eae8",
+				"gadTop": false,
+				"gadBottom": false,
+				"description": "C4 is an interesting and powerful new tool that gives players new ways to strategically flush out timid opponents. With a massive 25 meter effective radius and damage that can penetrate cover, you’ll be wanting to run away when you hear this beeping brick of boom. A quick note about C4, we don’t intend this to be just another throwable. It has a pretty short range, but can be used to cut off enemy entry into a building or new zone, or as mentioned above can force enemies out of their safe positions."
+			}]
+		}
+
+	]
+}

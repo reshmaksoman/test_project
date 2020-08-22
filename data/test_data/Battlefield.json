@@ -1,0 +1,33 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 60,
+	"data": [{
+		"title": "Battlefield",
+		"gadTop": true,
+		"gadBottom": true,
+		"backgroundImage": "pubg-home.jpg",
+		"content": "Can you guess the number of downloads your all-time favorite PUBG game have? 600 million downloads! Just imagine, in this world you have yet another 600 million PUBG lovers. From 2018 till today there is no other such game which people mostly talk about, think about and for the PUBG lovers spent many many many and many hours in the risky and thrilling battlefield. The PUBG or the multiplayer PlayerUnknown 's Battlegrounds   is an online multiplayer game published by PUBG Corporation. The game is based on previous mods that were created by Brendan PlayerUnknown  Greene for other games, inspired by the 2000 Japanese film Battle Royale, and expanded into a standalone game under Greene's creative direction.",
+		"imageData": [{
+			"image": "pubg-mobile.jpg",
+			"title": "PUBG Mobile",
+			"titleFontColor": "0xfff7eae8",
+			"gadTop": true,
+			"gadBottom": false,
+			"file": "image.json",
+			"description": "Android and iOS version of PUBG was released in 2018 "
+		}]
+	}, {
+		"title": "Release",
+		"backgroundImage": "pubg-home.jpg",
+		"content": "Battlegrounds was first released for Microsoft Windows via Steam 's early access beta program in March 2017, with a full release in December 2017. The game was also released by Microsoft Studios for the Xbox One via its Xbox Game Preview program that same month, and officially released in September 2018. A free-to-play mobile version for Android and iOS was released in 2018, in addition to a port for the PlayStation 4. A version for the Stadia streaming platform was released in April 2020. Battlegrounds is one of the best-selling and most-played video games of all time. The game had sold over 70 million copies by 2020, with PUBG Mobile having been downloaded over 600 million times.",
+		"image": "",
+		"bgColor": "0xff99ffdd",
+		"fontColor": "0xffff0000",
+		"gadBottom": true
+	}]
+
+}

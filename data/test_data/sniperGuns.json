@@ -1,0 +1,55 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "Sniper Guns",
+		"gadTop": true,
+		"gadBottom": false,
+		"backgroundImage": "weapons-bg.jpg",
+		"imageData": [{
+				"image": "awm.jpg",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "The best and the most powerful sniper in the world of PUBG Mobile is AWM. This gun cannot be found in the buildings or looting spots in the maps but in airdrops. If you are lucky enough to kill a person possessing an AWM, you can loot it from him/her as well. AWM uses .300mm magnum rounds and has to be used very carefully. It gives a maximum damage of 105 and has the longest range. An AWM with an 8x scope is a deadly combination. Make sure that you have good aim before opting for an AWM as bullets are limited. "
+			},
+			{
+				"image": "m24.jpg",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "M24 is the second best sniper in the game and has good range. It has a magazine of 5 bullets but you can extend it up to 7. It is powerful and gives a damage of 79. "
+			},
+			{
+				"image": "kar98k.jpg",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Kar98k can be found in buildings and loots spots in and around the map. It is not very easily available and depends on luck. It uses 7.62mm bullets and has decent damage rate of 75, which is a bit more than M24. It can hold up to 5 bullets only and has better range than most of the snipers after AWM and M24. "
+			},
+			{
+				"image": "mosin.png",
+				"title": "Mosin Nagant",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "The stats, attachments, ammunition, etc. are all directly copied from the Kar98k, but the Mosin will feature its own look and sound. The Mosin-Nagant Sniper Rifle has been added to Vikendi and Erangel, but not in the same way as we have other weapons. "
+			},
+			{
+				"image": "win94.jpg",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "This sniper rifle, which uses .45 ACP bullets, is new to PUBG Mobile and is the least favorite sniper rifle of PUBG Mobile players. One of the major disadvantages of this sniper is that you cannot attach a scope to it, thus rendering the main essence of sniping useless. It, thus cannot be used for long-range shooting. The gun provides a damage of 66. "
+			}
+		]
+	}]
+}

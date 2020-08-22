@@ -1,0 +1,44 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 60,
+	"data": [{
+		"title": "ലോഗിൻ ചെയ്യേണ്ട വിധം",
+		"gadTop": true,
+		"gadBottom": true,
+		"bgColor": "0xFF90CAF9",
+		"content": "ഇ-ഡിസ്ട്രിക്ട് പേജിൻറഎ വലതു വശത്തു കാണുന്ന പോര്‍ട്ടല്‍ യൂസര്‍ ലോഗിൻ ഭാഗത്തു നിന്നും പോര്‍ട്ടല്‍ യൂസര്‍ ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക\nലോഗിൻ നെയിമും പാസ്വേഡും കൃത്യമായി ചേര്‍ക്കുക\nഅതിന് ശേഷമുള്ള കാരക്ടറുകള്‍ കൃത്യമായി എഴുതുക\nഭാഷ ഇംഗ്ലീഷ്, അല്ലെങ്കില്‍ മലയാളം തിരഞ്ഞെെടുക്കുക\nശേഷം ലോഗിൻ ചെയ്യുക.",
+		"imageData": [{
+				"image": "registration.png",
+				"title": "",
+				"titleFontColor": "0xfff7eae8",
+				"gadTop": true,
+				"gadBottom": false,
+				"partisionValue" : 1,
+				"file": "",
+				"description": ""
+			},
+			{
+				"image": "password.png",
+				"title": "",
+				"titleFontColor": "0xfff7eae8",
+				"gadTop": true,
+				"gadBottom": false,
+				"file": "",
+				"description": "\nപാസ്വേഡ് മറന്നാല്‍,\nതുറന്നു വരുന്ന പേജില്‍ ലോഗിൻ നെയിം നല്‍കുക\nതുറന്നു വരുന്ന പോില്‍ ജനന തീയതിയോ ആധാര്‍ നമ്പറോ നല്‍കുക\nരജിസ്ട്രേഷൻ സമയത്ത് നല്‍കിയ സെക്യൂരിറ്റി ചോദ്യം തിരഞ്ഞെടുക്കു\nഅതിനുള്ള ഉത്തരം ചേര്‍ക്കുക\nസബ്മിറ്റ് ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക"
+			},
+			{
+				"image": "loginName.png",
+				"title": "",
+				"titleFontColor": "0xfff7eae8",
+				"gadTop": true,
+				"gadBottom": false,
+				"file": "",
+				"description": "\nലോഗിൻ നെയിം മറന്നാല്‍,\nനിങ്ങളുടെ മുഴുവൻ പേരും നല്‍കുക\nജനന തീയതി നല്‍കുക\nആധാര്‍ നമ്പര്‍ നല്‍കുക\nസബ്മിറ്റ് ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക"
+			}
+		]
+	}]
+}

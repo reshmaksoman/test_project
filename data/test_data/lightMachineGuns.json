@@ -1,0 +1,31 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "Light Machine Guns",
+		"gadTop": true,
+		"gadBottom": false,
+		"backgroundImage": "weapons-bg.jpg",
+		"imageData": [{
+				"image": "dp28.jpeg",
+				"titleFontColor": "0xff99ffdd",
+				"title": "DP-28",
+				"gadTop": false,
+				"gadBottom": true,
+				"description": "A slow but hard hitting machine gun, its distinctive 47-round pan magazine strikes a balance between the firepower of a full-power cartridge with the support capability of a machine gun. Its slow cyclic rate of fire means that its relatively strong recoil is somewhat manageable. Being a vintage weapon, it lacks attachments, being only capable of accepting sights up to the 6x scope, allowing greatly increased range for supporting fire."
+			},
+			{
+				"image": "m249.png",
+				"title": "M249",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "With 100 rounds of 5.56mm ammo per magazine, the M249 excels at room clearing, dealing slightly more damage than the 5.56mm assault rifles with a rate of fire as fast as that of the M16A4. The recoil is somewhat low, however the high rate of fire makes it harder to control."
+			}
+		]
+	}]
+}

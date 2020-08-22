@@ -1,0 +1,94 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "Assault Rifle",
+		"gadTop": true,
+		"gadBottom": false,
+		"backgroundImage": "weapons-bg.jpg",
+		"imageData": [{
+				"image": "m416.jpg",
+				"titleFontColor": "0xff99ffdd",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": true,
+				"description": "Base Damage: 43\n Magazine Capacity: 30\n A favourite of both new players and old veterans, the M416 is one of the smartest choices, offering great mid - range damage, the only area the M416 falls short is its ridiculous recoil, but it is manageable with the correct attachments."
+			},
+			{
+				"image": "scar-l.jpg",
+				"title": "SCAR-L",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Base Damage: 43\n Magazine Capacity: 30\n A staple in the shooter genre, the SCAR - L is extremely reliable and only concedes to the M416 in terms of Range but offers way better Recoil control,making it an extremely reliable AR."
+			},
+			{
+				"image": "m16a4.jpg",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Base Damage- 43\n Magazine Capacity - 30\n A classic upgrade on the cold - war era weapon M16, which is a staple of modern shooters.The M16A4 is a powerful AR with great range but the Rate of Fire is much slower than other ARs."
+			},
+			{
+				"image": "groza.jpg",
+				"title": "GROZA",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Base Damage- 49\n Magazine Capacity - 30 \n GROZA is a rare AR that is available only in Air Drop loot,and is one of the best guns in the game,with the Rate of Fire only second best to M416 but the damage dealt is significantly higher,similar to AKM."
+			},
+			{
+				"image": "qbz95.jpeg",
+				"title": "QBZ95",
+				"gadTop": false,
+				"gadBottom": true,
+				"description": "Base Damage: 43\n Magazine Capacity: 30\n The QBZ-95 is a Chinese bullpup assault rifle that fits the theme/location of the Sanhok.The QBZ replaces the SCAR-L in Sanhok’s item spawn pool (meaning the SCAR-L no longer spawns on Sanhok). The QBZ95 spawns about 1.4x as often as the SCAR-L used to spawn on Sanhok."
+			},
+			{
+				"image": "beryl.jpg",
+				"title": "Beryl M762",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Base Damage: 47\n Magazine Capacity: 30\n The Beryl M762 is a versatile assault rifle with more attachment points than the AKM, on par with the SCAR-L. Its base damage per shot is slightly lower than the other 7.62mm assault rifles, offset by its rate of fire being almost as fast as that of the Groza, allowing its overall damage per second to be significantly higher than the comparable AKM. This comes at the cost of significantly higher recoil that — unlike the AKM — can be reduced by attaching foregrips."
+			},
+			{
+				"image": "mk47Mutant.jpg",
+				"title": "Mk47 Mutant",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Base Damage- 49\n Magazine Capacity - 20\n The Mk47 Mutant is an assault rifle firing 7.62mm ammunition and is specialized for medium-range engagements. With higher base damage and muzzle velocity than the AKM, Beryl M762, or Groza, the Mutant does the most damage per shot of any assault rifle, and is easier to use at long range than its other 7.62mm brethren. However, it also has the smallest magazine size of any assault rifle and lacks a full-auto mode, which makes it more difficult to use in close-quarters engagements."
+			},
+			{
+				"image": "g36c.png",
+				"title": "G36C",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Base Damage- 43\n Magazine Capacity - 30 \n Right at home in its central European origins, the G36C's damage per second is lower than its popular 5.56mm brother, the M416. But it makes up for what it lacks in DPS, with better control especially when engaging your enemies at short to medium range"
+			},
+			{
+				"image": "akm.jpg",
+				"title": "AKM",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Base Damage- 49\n Magazine Capacity: 30\n The AKM is a scary weapon to weild as it high as one of the highest damage counts in the game.A variation on the popular AK - 47,the AKM only comes up short in the Recoil department,which can be controlled with attachments."
+			},
+			{
+				"image": "aug.jpg",
+				"title": "AUG A3",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Base Damage- 43\n Magazine Capacity - 30 \n The AUG A3 is an essential weapon if you like to rush your enemies than picking them off from a distance.It offers great damage from close to mid - range,and is the perfect AR for a rusher playstyle."
+			}
+		]
+	}]
+}

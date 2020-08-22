@@ -1,0 +1,63 @@
+{
+	"navBarTitle": "",
+	"navBarImage": "",
+	"navBarItem": [{
+			"title": "How To Download",
+			"iconCode": "0xe2c4",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF3B7BFC ",
+			"file": "HowtoDownload.json"
+		},
+		{
+			"title": "Hosting/Joining a meeting",
+			"iconCode": "0xe566",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF3B7BFC",
+			"file": "hostJoin.json"
+		},
+		{
+			"title": "Control A Meeting",
+			"iconCode": "0xe912",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF3B7BFC",
+			"file": "ControlMeeting.json"
+		},
+
+		{
+			"title": "Plans",
+			"iconCode": "0xe53b",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF3B7BFC",
+			"file": "plans.json"
+		},
+
+		{
+			"title": "Virtual Background",
+			"iconCode": "0xe3f8",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF3B7BFC",
+			"file": "virtualBg.json"
+		},
+		{
+			"title": "Virtual Classroom",
+			"iconCode": "0xe53b",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF3B7BFC",
+			"file": "virtualClassRoom.json"
+		},
+		{
+			"title": "Shortcuts",
+			"iconCode": "0xe53b",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF3B7BFC",
+			"file": "shortcuts.json"
+		},
+		{
+			"title": "FAQ",
+			"iconCode": "0xe887",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF3B7BFC",
+			"file": "faq.json"
+		}
+	]
+}

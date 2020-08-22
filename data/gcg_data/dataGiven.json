@@ -1,0 +1,24 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "രജിസ്ട്രേഷൻ സമയത്ത് ചേര്‍ക്കേണ്ട വ്യക്തിഗത വിവരങ്ങള്‍",
+		"gadTop": true,
+		"gadBottom": true,
+		"backgroundImage": "",
+		"bgColor": "0xFF90CAF9",
+		"content": "1. പേര് \n2. ലിംഗം\n3. ജനന തീയതി\n4. സ്ഥലം \n5. പ്രദേശം\n6. ജില്ല \n7. മൊബൈല്‍ നമ്പര്‍\n8. ആധാര്‍ നമ്പര്‍\n9. ലോഗിന് ഉപയോഗിക്കാവുന്ന ഇ-മെയില്‍ വിലാസം\n10. പാസ്വേഡ്\n11. പാസ്വേഡ് ഉറപ്പിക്കുക\n12. പാസ്വേഡ് മറന്നാല്‍ ലോഗിൻ ചെയ്യാനുള്ള ചോദ്യം\n13. ചോദ്യത്തിനുള്ള ഉത്തരം",
+		"imageData": [{
+			"image": "newRegistration.png",
+			"title": "",
+			"gadTop": true,
+			"gadBottom": false,
+			"description": " "
+		}]
+	}]
+
+}

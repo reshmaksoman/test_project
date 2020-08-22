@@ -1,0 +1,34 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+			"title": "Virtual Bacground",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "Bored by the background during your zoom call? You can create some virtual background in your Zoom meeting. The only thing you should have is your machine supporting a virtual background feature. The Virtual Background feature allows you to display an image or video as your background during a Zoom Meeting. This feature works best with a green screen and uniform lighting, to allow Zoom to detect the difference between you and your background. You can upload your own images or videos as a virtual background. ",
+			"imageData": [{
+				"image": "virtualBG.png",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"description": ""
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": " Enabling Virtual Background\n\nTo enable Virtual Background for Zoom Rooms:Sign in to the Zoom web portal as an admin.\nNavigate to the Zoom Rooms page and click Account Settings.\nToggle the Virtual Background with Greenscreen option.\nClick Upload Image to add more background choices to the default library."
+
+
+		}
+	]
+}

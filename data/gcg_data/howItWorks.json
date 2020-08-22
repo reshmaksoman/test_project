@@ -1,0 +1,27 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 60,
+	"data": [{
+		"title": "പ്രവര്‍ത്തന രീതി",
+		"gadTop": true,
+		"gadBottom": true,
+		"backgroundImage": "",
+		"bgColor": "0xFF90CAF9",
+		"content": "ഗൂഗിളില്‍ ഇ-ഡിസ്ട്രിക്ട് എന്ന് തിരയുക\nകേരള സര്‍കകാരിന്‍റെ ഐ.ടി മിഷൻ വാഗ്ദാനം ചെയ്യുന്ന ഇ-ഡിസ്ട്രിക്ട് പേജില്‍ കയറുക\nപേജിന്‍റെ വലതു വശത്തായിപോര്‍ട്ടല്‍ യൂസര്‍ ലോഗിന്‍ എന്ന ഭാഗം കാണാന് സാധിക്കും\nകാണുന്ന ഓപ്ഷനുകളില്‍ നിന്ന് ന്യൂ പോര്‍ട്ടല്‍ യൂസര്‍  ക്രിയേഷന്‍ തിരഞ്ഞെടുക്കുക.\nതുറന്നു വരുന്ന പേജില്‍ വ്യക്തിഗത വിവരങ്ങള്‍ കൃത്യമായി നല്‍കുക. \nനല്‍കുന്ന വിവരങ്ങള്‍ കൃത്യമായിരിക്കണ\nആധാര്‍ നമ്പര്‍ ചേര്‍ത്ത ശേഷം വലിഡേഷന്‍ ആവശ്.യപ്പെടും, വലിഡേഷൻ ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക\nഇ-മെയില്‍ വിലാസവും ഓര്‍മയില്‍ നില്‍ക്കുന്ന പാസ്വേഡു നല്‍കുക.\nപാസ്വേഡില്‍ വലിയ അക്ഷരം, ചെറിയ അക്ഷരം, ചിഹ്നങ്ങള്‍ എന്നിവ ഉണ്ടായിരിക്കണം\nപാസ്വേഡ് മറന്നാല്‍ ലോഗിൻ ചെയ്യാൻ സഹായിക്കുന്ന ചോദ്യവും ഉത്തരവും നല്‍കുക.\nതാഴെ നല്‍കിയിരിക്കുന്ന കെയ്സ് സെൻസിറ്റീവ് നമ്പര്‍ എഴുതുക.\nശേഷം I, holder of Aadhaar number XXXXXXXXXXXX, hereby give my consent to eDistrict Kerala to obtain my Aadhaar number and Name for authentication with UIDAI. eDistrict Kerala has informed me that my identity information would only be used for authentication purpose. ല്‍ എഗ്രീ എന്ന ഭാഗം തിരഞ്ഞെടുക്കുക.\nരജിസ്റ്റര്‍ ഓപ്ഷൻ തിരഞ്ഞെെടുക്കുക",
+		"imageData": [{
+			"image": "portalUserLogin.png",
+			"title": "",
+			"titleFontColor": "0xfff7eae8",
+			"gadTop": true,
+			"gadBottom": false,
+			"file": "",
+			"partisionValue" : 2,
+			"description": " "
+		}]
+	}]
+
+}

@@ -1,0 +1,45 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+			"title": "Basic Plan Features",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": " The basic plan is offered for free for users\n\n1.Host up to 100 participants\n2.Unlimited 1 to 1 meetings\n3.40 mins limit on group meetings\n4.Unlimited number of meetings\n5.Ticket Support\n6.HD video\n7.HD voice\n8.Active speaker view\n9.Full screen and gallery view\n10.Simultaneous Screen Share\n11.Virtual Background\n12.Waiting Room\n13.Web Conferencing FeaturesWeb Conferencing Features\n14.Group Collaboration FeaturesGroup Collaboration Features\n15.SecuritySecurity"
+
+		},
+		{
+			"title": "Pro Plan Features",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": " The pro plan costs $14.99/mo/host\n\n1.All Basic features +\n2.Includes 100 participants\n3.Need more participants?\n4.Meeting duration limit is 24 hrs\n5.User management\n6.Admin feature controls\n7.Reporting\n8.Custom Personal Meeting ID\n9.Assign scheduler\n10.1GB of MP4 or M4A cloud recording\n11.Skype for Business (Lync) interoperability\n12.Optional Add-on PlansOptional Add-on Plans"
+
+		},
+		{
+			"title": "Business Plan Features",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "The Business plan costs $19.99 /mo/host\n\n1.All Pro features +\n2.Includes 300 participants\n3.Need more participants?\n4.Dedicated phone support\n5.Admin dashboard\n6.Vanity URL\n7.Option for on-premise deployment\n8.Managed domains\n9.Single sign-on\n10.Company branding\n11.Custom emails\n12.LTI integration\n13.Cloud Recording Transcripts\n14.Optional Add-on PlansOptional Add-on Plans"
+
+		},
+		{
+			"title": "Enterprise paln features",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "The Enterprise plan costs $19.99 /mo/host. \n\n1.All Business features +\n2.Enterprise includes 500 participants\n3.Enterprise Plus includes 1,000 participants\n4.Unlimited Cloud Storage\n5.Dedicated Customer Success Manager\n6.Executive Business Reviews\n7.Bundle discounts on Webinars and Zoom Rooms"
+
+		}
+	]
+}

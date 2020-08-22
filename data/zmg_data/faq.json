@@ -1,0 +1,51 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 60,
+	"data": [{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"content": "Do you need an account to use Zoom?\n\nA Zoom account is not required if you are strictly joining Zoom Meetings as a participant. If someone invites you to their meeting, you can join as a participant without creating an account. However, if the host has restricted joining meetings using authentication profiles, then the participant will need a Zoom account to access the meeting. Learn more about joining a Zoom meeting. \nA Zoom account is only required if you need to create your own meetings and send invitations to participants. Having a Zoom account allows you to create your own Instant Meetings or Schedule Meetings. An account also allows you to access your personal settings, where you can update your profile or upgrade your plan at any time. "
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"content": "Can I record my meeting?\n\nAll Zoom hosts can record locally to their computer unless this feature has been disabled by their Zoom account owner or admin. Hosts who are Licensed can also record to the Zoom cloud. In a Zoom meeting, press Record to start the recording. Learn more about local recording and cloud recording.  "
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"content": "Where do I find my recording?\n\nBy default, local recordings are saved to your documents folder. Cloud recordings can be found on the Recording page of your Zoom web portal. Learn more about locating your recording."
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"content": "How do I join a Zoom meeting?\n\nYou can join a meeting by clicking the meeting link or going to join.zoom.us and entering in the meeting ID.  "
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"content": "Do I have to have a webcam to join on Zoom?\n\nWhile you are not required to have a webcam to join a Zoom Meeting or Webinar, you will not be able to transmit video of yourself. You will continue to be able to listen and speak during the meeting, share your screen, and view the webcam video of other participants. "
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"content": "Can I record my meeting?\n\nAll Zoom hosts can record locally to their computer unless this feature has been disabled by their Zoom account owner or admin. Hosts who are Licensed can also record to the Zoom cloud. In a Zoom meeting, press Record to start the recording. "
+		}
+	]
+}

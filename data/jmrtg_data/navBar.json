@@ -1,0 +1,49 @@
+{
+	"navBarTitle": "",
+	"navBarImage": "",
+	"navBarItem": [{
+			"title": "പ്രവര്‍ത്തന രീതി",
+			"iconCode": "0xe039",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF64B5F6",
+			"file": "howItWorks.json"
+		},
+		{
+			"title": "ലോഗിൻ രീതി",
+			"iconCode": "0xe566",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF64B5F6",
+			"file": "login.json"
+		},
+		{
+			"title": "രജിസ്ട്രേഷൻ",
+			"iconCode": "0xe55a",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF64B5F6",
+			"file": "registration.json"
+		},
+
+		{
+			"title": "നല്‍കണ്ട വിവരങ്ങള്‍",
+			"iconCode": "0xe02f",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF64B5F6",
+			"file": "dataGiven.json"
+		},
+
+		{
+			"title": "ആപ്ലിക്കേഷൻ",
+			"iconCode": "0xe22b",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF64B5F6",
+			"file": "regDetails.json"
+		},
+		{
+			"title": "സേവനങ്ങള്‍",
+			"iconCode": "0xe912",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF64B5F6",
+			"file": "others.json"
+		}
+	]
+}

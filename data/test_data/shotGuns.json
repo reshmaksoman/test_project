@@ -1,0 +1,55 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "Shot Guns",
+		"gadTop": true,
+		"gadBottom": false,
+		"backgroundImage": "weapons-bg.jpg",
+		"imageData": [{
+				"image": "s12k.jpg",
+				"title": "S12K",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "It is the best shotgun available in PUBG Mobile. S12K is quite devastating in close-range combats courtesy its capability of taking down multiple enemies through a semi-automatic feature and a high fire rate damage. The weapon uses the 12-gauge ammo and has a magazine size of 5 that can be extended to 8. "
+			},
+			{
+				"image": "dbs.jpg",
+				"title": "DBS",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "The next gun on this list is DBS. It is a double-barreled pump-action shotgun and can only be found in airdrops. DBS is a nine-pellet gun and has a base damage of 26. The weapon can fire a massive burst of bullets in a short duration. This gun uses a 12-gauge ammunition and has a magazine size of 14. "
+			},
+			{
+				"image": "s1897.jpg",
+				"title": "S1897",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "S1897 has a base damage of 26 and comes with a decent magazine size of 5 shells. Thus, players do not need to actively reload the weapon during close combats. The biggest drawback of this gun is the long reload time which is quite frustrating. So if you have fired off all your shots, the time to switch weapons has arrived.  "
+			},
+			{
+				"image": "s686.jpg",
+				"title": "S686",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "S686 can fire off two 12-gauge bullets very quickly and is an absolute beast in close-range battles. All you have to do is be accurate with your shots because the gun has a long reload time and only a two-bullet magazine. This makes it quite tough to use. The gun has a base damage of 2."
+			},
+			{
+				"image": "sawed-off.jpg",
+				"title": "Sawed-off",
+				"gadTop": false,
+				"gadBottom": true,
+				"titleFontColor": "0xfff7eae8",
+				"description": "Sawed-off can be termed a mini S686. It is a dual-barrel shotgun with higher spread than S686 due to the shorter barrel. S686 is an exclusive shotgun that fits into the handgun slot. The range of this gun is far less than the others on this list, however."
+			}
+		]
+	}]
+}
