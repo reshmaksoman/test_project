@@ -1,0 +1,39 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+			"title": "Sharing a  screen",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "JioMeet has enabled a feature to share your screen in a meeting, while you're using the app on your phone, computer or the web. \nTo share your screen while using JioMeet on iOS, follow these steps.Tap Share from the meeting screen > tap Screen Share Start > tap Start Broadcast.\nTo stop, tap Stop Share > tap Screen Share Stop > tap Stop Broadcast.\nTo share your screen while using JioMeet on Android, \nTap Share from the meeting screen > from the pop-up that appears, tap Start Now to get started.\nTo stop screen sharing, tap Stop Share > tap Stop Share.\nBesides, you can also Share Screen from the app's home screen. \nOpen the app > log in > tap Share Screen > enter the Meeting ID and password.\nYou'll now join the meeting and you'll also get a pop-up asking if you want to start sharing your screen, go ahead and tap Start Broadcast or Start Share.\nTo stop screen sharing, tap Stop Share > tap Stop Share.",
+			"imageData": [{
+				"image": "",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"description": ""
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "To share your screen while using JioMeet on a computer, follow these steps.\nTap Share Screen from the meeting screen.\nOn the next screen, you can either choose Desktop to share whatever there is on your computer screen or you can choose from the individual apps/ screens mentioned. Once you've made your choice, tap Share Screen to get started.\nTo stop screen sharing, tap the red Stop sharing button present at the top of the meeting window.\nUnfortunately, the screen sharing feature doesn't work on the Web version of JioMeet.",
+			"imageData": [{
+				"image": "shareDesktop.png",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"description": ""
+			}]
+		}
+	]
+}
