@@ -8,42 +8,54 @@
 	"data": [{
 			"title": "",
 			"gadTop": true,
-			"gadBottom": true,
+			"gadBottom": false,
+			"bgColor": "0xFFef5425",
+			"fontColor": "0xFFFCFCFC",
 			"backgroundImage": "",
 			"content": "What is safe driving mode?\n\nSafe Driving Mode is another JioMeet feature that is currently not available in Zoom. When enabled, the video will automatically be disabled to prevent distractions while driving. You will need to tap to speak with others.To enable this setting, Open JioMeet app on iOS or Android and Tap on Settings at the bottom. Now select Meeting and scroll down to Safe Driving mode and enable it "
 		},
 		{
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": true,
+			"bgColor": "0xFFef5425",
+			"fontColor": "0xFFFCFCFC",
 			"backgroundImage": "",
 			"content": "How to Star a Favourite contacts?\n\nYes, you can add contacts, VC Rooms and Groups. Go to Contacts Tab >> Tap on any contact >> Tap on Star "
 		},
 		{
 			"title": "",
-			"gadTop": true,
-			"gadBottom": true,
+			"gadTop": false,
+			"gadBottom": false,
 			"backgroundImage": "",
+			"bgColor": "0xFFef5425",
+			"fontColor": "0xFFFCFCFC",
 			"content": "What is the Difference between ‘Leave Meeting’ and ‘End Meeting’?\n\nLeave Meeting - Host/Attendees can leave meeting anytime, but other participants will continue in call.\nEnd Meeting - Host can End the meeting for all."
 		},
 		{
 			"title": "",
 			"gadTop": true,
-			"gadBottom": true,
+			"gadBottom": false,
 			"backgroundImage": "",
+			"bgColor": "0xFFef5425",
+			"fontColor": "0xFFFCFCFC",
 			"content": "How to view contacts?\n\n1.JioMeet quickly and easily recognizes which of your contacts are using JioMeet by server syncing your phone's address book.\n2.Open JioMeet > Go to Contacts tab\n3.Your Phone Contacts which are already registered on JioMeet can see JioMeet Call & Native dialler options. "
 		},
 		{
 			"title": "",
-			"gadTop": true,
-			"gadBottom": true,
+			"gadTop": false,
+			"gadBottom": false,
 			"backgroundImage": "",
+			"bgColor": "0xFFef5425",
+			"fontColor": "0xFFFCFCFC",
 			"content": "How do I create a Group in JioMeet?\n\n  1.Go to Contacts Tab\n  2.Click on “+” icon\n  3.Click on “Create a Group”\n  4.Enter Group name\n  5.Add Invitees\n  6.Click on Create Group\n\nNote:\n*Only registered users can be part of the Group.\n*Only the Creator of the Group can Delete the Group\n*Only the Creator of the Group can Add/Remove users from the Group"
 		},
 		{
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": true,
+			"bgColor": "0xFFef5425",
+			"fontColor": "0xFFFCFCFC",
 			"backgroundImage": "",
 			"content": "What is the difference between dynamic and personal room while scheduling a meeting?\n\nDynamic room means a temporary room. Personal room means a dedicated room which will be available all the time."
 		}
