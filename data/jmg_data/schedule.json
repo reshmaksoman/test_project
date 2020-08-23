@@ -8,14 +8,15 @@
 	"data": [{
 			"title": "Schedule A Meeting",
 			"gadTop": true,
-			"gadBottom": true,
+			"gadBottom": false,
 			"backgroundImage": "",
-			"bgColor": "0xFF90CAF9",
+			"bgColor": "0xFFef5425",
+			"fontColor": "0xFFFCFCFC",
 			"content": "To schedule a new meeting on JioMeet via your smartphone, you have to Open the app > log in > tap Schedule.\nOn the next screen, enter the meeting topic, edit when the meeting starts and its duration.\nBelow you will find Meeting options and Advanced options, you can enable or disable the ones according to your preference. Finally, tap Done to schedule your meeting.\nTo access and manage a scheduled meeting, tap Meetings > tap the one that you'd like to manage > select if you want to start the meeting, add it to your calendar, add invitees or delete it.",
 			"imageData": [{
 				"image": "schedule.PNG",
 				"title": "",
-				"gadTop": true,
+				"gadTop": false,
 				"gadBottom": false,
 				"description": ""
 			}]
@@ -23,30 +24,32 @@
 		},
 		{
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": true,
 			"backgroundImage": "",
-			"bgColor": "0xFF90CAF9",
+			"bgColor": "0xFFef5425",
+			"fontColor": "0xFFFCFCFC",
 			"content": " To schedule a meeting via JioMeet on your computer, follow these steps.\nOpen the app > log in > click Schedule.\nNext, enter the meeting topic, edit the duration, edit the video options, choose if you wish to add the meeting to Outlook, edit the Advanced options and hit Schedule. Your scheduled meetings appear on the app's homescreen.\nTo access and manage a scheduled meeting, click the three-dots icon right next to a meeting > choose your action according to your preference.",
 			"imageData": [{
 				"image": "",
 				"title": "",
-				"gadTop": true,
+				"gadTop": false,
 				"gadBottom": false,
 				"description": ""
 			}]
 		},
 		{
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": true,
 			"backgroundImage": "",
-			"bgColor": "0xFF90CAF9",
+			"bgColor": "0xFFef5425",
+			"fontColor": "0xFFFCFCFC",
 			"content": " On web, you can schedule a meeting by, \nVisiting jiomeetpro.jio.com/home on Google Chrome or Firefox > log in > click Schedule a Meeting.\nOn the next screen, enter the meeting topic, edit the date, time and duration, manage and choose the Audio, Video and Meeting options according to your preference > hit Save.\nTo access and manage a scheduled meeting, click the profile icon > on the left, click Meetings. Your scheduled meetings will show up under the Upcoming Meetings tab. You can click on the desired meeting to edit or delete it.",
 			"imageData": [{
 				"image": "",
 				"title": "",
-				"gadTop": true,
+				"gadTop": false,
 				"gadBottom": false,
 				"description": ""
 			}]
