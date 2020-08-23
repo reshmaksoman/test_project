@@ -1,0 +1,87 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+			"title": "Host A Meeting",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "Inorder to host a meeting on your android or IPhone device,\nOpen the app > log in > tap New Meeting.\nOn the opening screen, select whether you want to keep your video on or off. Below that, you'll see a toggle saying Use Personal Meeting ID. Turn it on to generate your personal meeting ID and password.\nOnce done, tap Start Meeting. \nTo invite participants, tap Participants > tap Invite > you can either copy the link and manually share it or you can simply tap supported app and then select a user to share the link with.",
+			"imageData": [{
+				"image": "hostmob.jpg",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"description": ""
+			}]
+
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": " To start a new meeting on a computer, follow these steps.\nOpen the app > log in > click the down arrow next to New Meeting and check both the options > click New Meeting to get started.\nTo invite participants, click Participants > click Invite > click the mentioned email services to go ahead or you can copy the URL or invitation and send it to others through WhatsApp Web or Facebook Messenger.",
+			"imageData": [{
+				"image": "host.PNG",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"description": ""
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "You can also host a meeting via JioMeet's website via these steps.\nVisit the website, jiomeetpro.jio.com/home > log in > click Host a Meeting.\nTo invite participants, repeat the steps suggested for the JioMeet desktop app.",
+			"imageData": [{
+				"image": "",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"description": ""
+			}]
+
+		},
+		{
+			"title": "Join A Meeting",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "If you want to join a meeting on JioMeet — if you're using the service on a smartphone, follow these steps.\nOpen the app > tap Join a Meeting. You don't need to be logged in to join a meeting on JioMeet.\nNow go ahead and enter the Meeting ID > enter your name > review your joining options > tap Join Meeting > enter the meeting password and you're good to go.\n\nRepeat the same steps for joining a meeting on JioMeet app on your computer.",
+			"imageData": [{
+				"image": "joinmob.PNG",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"description": ""
+			}]
+
+		}, {
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "Apart from this, if you wish to join a meeting via the web, check out these steps.\nVisit jiomeetpro.jio.com/home on Google Chrome or Firefox > click Join a Meeting > enter the meeting ID and click Join.",
+			"imageData": [{
+				"image": "joinPC.PNG",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"description": ""
+			}]
+
+		}
+	]
+}
