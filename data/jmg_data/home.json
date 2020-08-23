@@ -6,19 +6,29 @@
 	"giad": true,
 	"giadIntrevel": 150,
 	"data": [{
-		"title": "",
-		"gadTop": true,
-		"gadBottom": true,
-		"backgroundImage": "",
-		"bgColor": "0xFF90CAF9",
-		"content": "The recently launched india's own jiopmeet made a massive entry among the white collor employees and students who depend on virtual meeting applications on lovkdown days. JioMeet, the cross-platform service, which  is supported on all major operating systems including Android, iOS, Windows 10, macOS and the web created huge support among the users. JioMeet is absolutely free right now and comes with features such as video calls with up to 100 participants, screen-sharing, scheduling a meetings, etc.",
-		"imageData": [{
-			"image": "eDistrictHome.jpg",
 			"title": "",
 			"gadTop": true,
-			"gadBottom": false,
-			"partisionValue": 6,
-			"description": "Jio meet offers a number of features which make your meetings more vibrant and better.\n\n•  HD Audio and Video quality for every meeting\n•Create instant meeting and start inviting friends\n•Schedule a meeting in advance and share meeting details with invitees\n•Active Speaker view layout\n•Unlimited Meetings per day\n•Each meeting can go uninterrupted up to 24hrs\n•Each meeting is password protected\n•Host can enable ‘Waiting Room’ to ensure no participant joins without permission\n•Create Groups and start calling/chatting on single click\n•Share Screen and start collaborating\n•Use ‘Safe Driving Mode’ while driving\n•Use JioMeet on Android, Windows, iOS, Mac, SIP/H.323 systems\n•Multi-device login support up to 5 devices\n•Seamlessly switch from one device to other while on call\n•Easy sign up with Mobile number/Email ID. We only support Indian mobile numbers."
-		}]
-	}]
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "The recently launched india's own jiopmeet made a massive entry among the white collor employees and students who depend on virtual meeting applications on lovkdown days. JioMeet, the cross-platform service, which  is supported on all major operating systems including Android, iOS, Windows 10, macOS and the web created huge support among the users. JioMeet is absolutely free right now and comes with features such as video calls with up to 100 participants, screen-sharing, scheduling a meetings, etc.",
+			"imageData": [{
+				"image": "logo.png",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"partisionValue": 6,
+				"description": ""
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": " Jio meet offers a number of features which make your meetings more vibrant and better.\n\n•  HD Audio and Video quality for every meeting\n•Create instant meeting and start inviting friends\n•Schedule a meeting in advance and share meeting details with invitees\n•Active Speaker view layout\n•Unlimited Meetings per day\n•Each meeting can go uninterrupted up to 24hrs\n•Each meeting is password protected\n•Host can enable ‘Waiting Room’ to ensure no participant joins without permission\n•Create Groups and start calling/chatting on single click\n•Share Screen and start collaborating\n•Use ‘Safe Driving Mode’ while driving\n•Use JioMeet on Android, Windows, iOS, Mac, SIP/H.323 systems\n•Multi-device login support up to 5 devices\n•Seamlessly switch from one device to other while on call\n•Easy sign up with Mobile number/Email ID. We only support Indian mobile numbers."
+
+		}
+	]
 }
