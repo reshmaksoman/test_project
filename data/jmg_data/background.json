@@ -10,7 +10,8 @@
 		"gadTop": true,
 		"gadBottom": true,
 		"backgroundImage": "",
-		"bgColor": "0xFF90CAF9",
+		"bgColor": "0xFFef5425",
+		"fontColor": "0xFFFCFCFC",
 		"content": " If you want to change the background, read below to know more.\n  1.DownloadThe first step is to download and install desktop version of JioMeet.\n  2.Download Snap CameraNow, download Snap Camera on desktop and install it and open the app.\n  3.Look for the filterNow, click on the background you desire by searching under the lenses search box and keep the snap camera running in the background.\n 4.Final step,Now, click open the JioMeet and start the meeting. Now, head to Settings and under the video option, select the snap camera and it is done. The background will keep running until you change it further.",
 		"imageData": [{
 			"image": "",
