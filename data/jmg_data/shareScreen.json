@@ -28,7 +28,7 @@
 			"bgColor": "0xFF90CAF9",
 			"content": "To share your screen while using JioMeet on a computer, follow these steps.\nTap Share Screen from the meeting screen.\nOn the next screen, you can either choose Desktop to share whatever there is on your computer screen or you can choose from the individual apps/ screens mentioned. Once you've made your choice, tap Share Screen to get started.\nTo stop screen sharing, tap the red Stop sharing button present at the top of the meeting window.\nUnfortunately, the screen sharing feature doesn't work on the Web version of JioMeet.",
 			"imageData": [{
-				"image": "shareDesktop.png",
+				"image": "",
 				"title": "",
 				"gadTop": false,
 				"gadBottom": false,
