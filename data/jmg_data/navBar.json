@@ -2,48 +2,62 @@
 	"navBarTitle": "",
 	"navBarImage": "",
 	"navBarItem": [{
-			"title": "പ്രവര്‍ത്തന രീതി",
+			"title": "How To Download",
 			"iconCode": "0xe039",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF64B5F6",
-			"file": "howItWorks.json"
+			"file": "HowToDownload.json"
 		},
 		{
-			"title": "ലോഗിൻ രീതി",
+			"title": "Host/Join a Meeting",
 			"iconCode": "0xe566",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF64B5F6",
-			"file": "login.json"
+			"file": "hostJoinMeeting.json"
 		},
 		{
-			"title": "രജിസ്ട്രേഷൻ",
+			"title": "Schedule A Meeting",
 			"iconCode": "0xe55a",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF64B5F6",
-			"file": "registration.json"
+			"file": "schedule.json"
 		},
 
 		{
-			"title": "നല്‍കണ്ട വിവരങ്ങള്‍",
+			"title": "Screen Sharing",
 			"iconCode": "0xe02f",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF64B5F6",
-			"file": "dataGiven.json"
+			"file": "shareScreen.jsonn"
 		},
 
 		{
-			"title": "ആപ്ലിക്കേഷൻ",
+			"title": "Changing background",
 			"iconCode": "0xe22b",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF64B5F6",
-			"file": "regDetails.json"
+			"file": "background.json"
 		},
 		{
-			"title": "സേവനങ്ങള്‍",
+			"title": "Advanced features",
+			"iconCode": "0xe22b",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF64B5F6",
+			"file": "advancedFetaures.json"
+		},
+		{
+			"title": "Tips",
+			"iconCode": "0xe22b",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFF64B5F6",
+			"file": "tips.json"
+		},
+		{
+			"title": "FAQ",
 			"iconCode": "0xe912",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF64B5F6",
-			"file": "others.json"
+			"file": "faq.json"
 		}
 	]
 }
