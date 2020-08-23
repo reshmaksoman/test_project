@@ -1,0 +1,23 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "How To Download",
+		"gadTop": true,
+		"gadBottom": true,
+		"backgroundImage": "",
+		"bgColor": "0xFF90CAF9",
+		"content": "You can download Jiomeet from google play, app store or similiar places. You can also download the JioMeet app on Windows, as well as Mac OS. IF you do not wish to download the app, then you can also access JioMeet on supported browsers like Google Chrome and Firefox through their website.",
+		"imageData": [{
+			"image": "download.PNG",
+			"title": "",
+			"gadTop": true,
+			"gadBottom": false,
+			"description": ""
+		}]
+	}]
+}
