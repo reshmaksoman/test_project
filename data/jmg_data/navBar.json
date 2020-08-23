@@ -5,21 +5,21 @@
 			"title": "How To Download",
 			"iconCode": "0xe039",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF64B5F6",
+			"bgColor": "0xFFFC843B",
 			"file": "HowToDownload.json"
 		},
 		{
 			"title": "Host/Join a Meeting",
 			"iconCode": "0xe566",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF64B5F6",
+			"bgColor": "0xFFFC843B",
 			"file": "hostJoinMeeting.json"
 		},
 		{
 			"title": "Schedule A Meeting",
 			"iconCode": "0xe55a",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF64B5F6",
+			"bgColor": "0xFFFC843B",
 			"file": "schedule.json"
 		},
 
@@ -27,7 +27,7 @@
 			"title": "Screen Sharing",
 			"iconCode": "0xe02f",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF64B5F6",
+			"bgColor": "0xFFFC843B",
 			"file": "shareScreen.jsonn"
 		},
 
@@ -35,28 +35,28 @@
 			"title": "Changing background",
 			"iconCode": "0xe22b",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF64B5F6",
+			"bgColor": "0xFFFC843B",
 			"file": "background.json"
 		},
 		{
 			"title": "Advanced features",
 			"iconCode": "0xe22b",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF64B5F6",
+			"bgColor": "0xFFFC843B",
 			"file": "advancedFetaures.json"
 		},
 		{
 			"title": "Tips",
 			"iconCode": "0xe22b",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF64B5F6",
+			"bgColor": "0xFFFC843B",
 			"file": "tips.json"
 		},
 		{
 			"title": "FAQ",
 			"iconCode": "0xe912",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF64B5F6",
+			"bgColor": "0xFFFC843B",
 			"file": "faq.json"
 		}
 	]
