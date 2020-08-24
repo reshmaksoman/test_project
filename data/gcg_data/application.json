@@ -4,7 +4,7 @@
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
 	"giad": true,
-	"giadIntrevel": 150,
+	"giadIntrevel": 1500,
 	"data": [{
 		"title": "",
 		"gadTop": true,
@@ -15,13 +15,13 @@
 		"imageData": [{
 			"image": "newReg1.png",
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"description": ""
 		}, {
 			"image": "newreg2.png",
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"description": ""
 		}]
