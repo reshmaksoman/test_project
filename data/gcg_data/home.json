@@ -4,7 +4,7 @@
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
 	"giad": true,
-	"giadIntrevel": 150,
+	"giadIntrevel": 1500,
 	"data": [{
 		"title": "",
 		"gadTop": true,
@@ -15,7 +15,7 @@
 		"imageData": [{
 			"image": "eDistrictHome.jpg",
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"partisionValue" : 6,
 			"description": "രജിസ്ട്രേഷൻ സമയത്ത് നല്‍കുന്ന വിവരങ്ങളെ അടിസ്ഥാനപ്പെടുത്തിയാണ് ലോഗിൻ സാധ്യമാവുന്നത്. നല്‍കുന്ന വിവരങ്ങള്‍കൃത്യമാണെന്ന് ഉറപ്പ് വരുത്തണം"
