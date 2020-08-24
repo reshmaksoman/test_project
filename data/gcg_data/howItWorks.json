@@ -4,7 +4,7 @@
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
 	"giad": true,
-	"giadIntrevel": 60,
+	"giadIntrevel": 1500,
 	"data": [{
 		"title": "പ്രവര്‍ത്തന രീതി",
 		"gadTop": true,
@@ -16,7 +16,7 @@
 			"image": "portalUserLogin.png",
 			"title": "",
 			"titleFontColor": "0xfff7eae8",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"file": "",
 			"partisionValue" : 2,
