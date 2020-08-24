@@ -4,7 +4,7 @@
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
 	"giad": true,
-	"giadIntrevel": 150,
+	"giadIntrevel": 1500,
 	"data": [{
 		"title": "രജിസ്ട്രേഷൻ സമയത്ത് ചേര്‍ക്കേണ്ട വ്യക്തിഗത വിവരങ്ങള്‍",
 		"gadTop": true,
@@ -15,7 +15,7 @@
 		"imageData": [{
 			"image": "newRegistration.png",
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"description": " "
 		}]
