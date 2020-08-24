@@ -4,7 +4,7 @@
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
 	"giad": true,
-	"giadIntrevel": 150,
+	"giadIntrevel": 1500,
 	"data": [{
 		"title": "",
 		"gadTop": true,
@@ -15,7 +15,7 @@
 		"imageData": [{
 			"image": "submitApplication.png",
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"partisionValue" : 2,
 			"description": ""
