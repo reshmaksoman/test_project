@@ -4,7 +4,7 @@
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
 	"giad": true,
-	"giadIntrevel": 150,
+	"giadIntrevel": 1500,
 	"data": [{
 		"title": "",
 		"gadTop": true,
@@ -15,14 +15,14 @@
 		"imageData": [{
 				"image": "newReg1.png",
 				"title": "",
-				"gadTop": true,
+				"gadTop": false,
 				"gadBottom": false,
 				"description": " "
 			},
 			{
 				"image": "newreg2.png",
 				"title": "",
-				"gadTop": true,
+				"gadTop": false,
 				"gadBottom": false,
 				"description": "16.ഫോണ്‍ (വീട്) \n17.‍മൊബൈല്‍ \n18.ഇ-മെയില്‍ \n19.റേ.കാര്‍ഡ് നം:\n20.ഡ്രൈവിങ്ങ് ലൈസന്‍സ് നം: \n21. ഇലക്ഷന്‍ കാര്‍ഡ് നം: \n22.പാസ്പോര്‍ട്ട് നം: \n23.ആധാര്‍ നം:\n24.SSLC റജിസ്ട്രേഷന്‍ നംബര്‍ \n25. SSLC ജയിച്ച വര്‍ഷം \n \n വിവരങ്ങള്‍ രേഖപ്പെടുത്തിയ ശേഷം സമര്‍പ്പിക്കുക എന്ന ഓപ്ഷൻ തിരഞ്ഞെെടുക്കുക \n \n + ഏതെങ്കിലുമൊന്ന് തിരഞ്ഞെടുത്താല്‍ മതിയാകും \n \n * നല്‍കിയ വിവരങ്ങള്‍ എല്ലാം നല്‍കുക"
 			}
