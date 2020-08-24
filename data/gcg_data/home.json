@@ -3,7 +3,7 @@
 	"backgroundImage": "",
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
-	"giad": true,
+	"giad": false,
 	"giadIntrevel": 1500,
 	"data": [{
 		"title": "",
