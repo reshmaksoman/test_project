@@ -4,40 +4,40 @@
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
 	"giad": true,
-	"giadIntrevel": 150,
+	"giadIntrevel": 1500,
 	"data": [{
 			"title": "Sharing a  screen",
 			"gadTop": true,
-			"gadBottom": true,
+			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "0xFF90CAF9",
 			"content": "If you want to share your presentatiom, graphics or aome importqnt data,  zoom will help you to share a screen to the participants. Inorder for sharing,  start a meeting and tap Share, which is present in the bottom tab. With this, you'll be able to share your phone's screen, share files, documents and more, depending on your selection.",
 			"imageData": [{
 				"image": "shareScreen.png",
 				"title": "",
-				"gadTop": true,
+				"gadTop": false,
 				"gadBottom": false,
 				"description": ""
 			}]
 		},
 		{
 			"title": "",
-			"gadTop": true,
-			"gadBottom": true,
+			"gadTop": false,
+			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "0xFF90CAF9",
 			"content": " If you're using the app on the computer, simply click on Share Screen which is on the bottom bar of the meeting window.\nYou'll see various options like  basic, you will be able to share your complete desktop screen or you can even select an individual application that's open.\nYou also have some advanced sharing options like sharing only a portion of the screen or certain audio playing on the computer.",
 			"imageData": [{
 				"image": "shareDesktop.png",
 				"title": "",
-				"gadTop": true,
+				"gadTop": false,
 				"gadBottom": false,
 				"description": ""
 			}]
 		},
 		{
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": true,
 			"backgroundImage": "",
 			"bgColor": "0xFF90CAF9",
@@ -45,7 +45,7 @@
 			"imageData": [{
 				"image": "shareWeb.png",
 				"title": "",
-				"gadTop": true,
+				"gadTop": false,
 				"gadBottom": false,
 				"description": ""
 			}]
