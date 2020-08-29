@@ -4,7 +4,7 @@
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
 	"giad": true,
-	"giadIntrevel": 150,
+	"giadIntrevel": 1500,
 	"data": [{
 		"title": "How to download",
 		"gadTop": true,
@@ -15,7 +15,7 @@
 		"imageData": [{
 			"image": "zoomPlayStore.PNG",
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"description": ""
 		}]
