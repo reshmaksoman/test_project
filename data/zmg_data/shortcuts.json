@@ -4,11 +4,11 @@
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
 	"giad": true,
-	"giadIntrevel": 150,
+	"giadIntrevel": 1500,
 	"data": [{
 		"title": "Shortcuts in Zoom Desktop",
 		"gadTop": true,
-		"gadBottom": true,
+		"gadBottom": false,
 		"backgroundImage": "",
 		"bgColor": "0xFF90CAF9",
 		"content": "1.Mute or unmute audio: Alt + A\n2.Mute the entire group at once: Alt + M\n3.Start or stop video: Alt + V\n4.Pause or resume screen sharing: Alt + S\n5.Start recording a meeting: Alt + R\n6.Pause or resume screen recording: Alt + P\n7.Switch camera: Alt + N\n8.Raise or lower hand: Alt + Y\n9.Open the invite window instantly: Alt + I\n\nThe shortcuts commands are listed for Windows PC users. Mac users will want to substitute the Apple or Command key for the Alt key above."
