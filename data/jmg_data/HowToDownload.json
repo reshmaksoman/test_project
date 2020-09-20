@@ -25,7 +25,7 @@
 		{
 			"title": "Creating an account",
 			"gadTop": false,
-			"gadBottom": true,
+			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "0xFFef5425",
 			"fontColor": "0xFFFCFCFC",
