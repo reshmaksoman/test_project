@@ -8,7 +8,7 @@
 	"data": [{
 			"title": "Host A Meeting",
 			"gadTop": true,
-			"gadBottom": true,
+			"gadBottom": false,
 			"backgroundImage": "",
 			"fontColor": "0xFFFCFCFC",
 			"bgColor": "0xFFef5425",
@@ -24,8 +24,8 @@
 		},
 		{
 			"title": "",
-			"gadTop": true,
-			"gadBottom": true,
+			"gadTop": false,
+			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "0xFFef5425",
 			"fontColor": "0xFFFCFCFC",
@@ -40,25 +40,17 @@
 		},
 		{
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": true,
 			"backgroundImage": "",
 			"bgColor": "0xFFef5425",
 			"fontColor": "0xFFFCFCFC",
-			"content": "You can also host a meeting via JioMeet's website via these steps.\nVisit the website, jiomeetpro.jio.com/home > log in > click Host a Meeting.\nTo invite participants, repeat the steps suggested for the JioMeet desktop app.",
-			"imageData": [{
-				"image": "",
-				"title": "",
-				"gadTop": false,
-				"gadBottom": false,
-				"description": ""
-			}]
-
+			"content": "You can also host a meeting via JioMeet's website via these steps.\nVisit the website, jiomeetpro.jio.com/home > log in > click Host a Meeting.\nTo invite participants, repeat the steps suggested for the JioMeet desktop app."
 		},
 		{
 			"title": "Join A Meeting",
-			"gadTop": true,
-			"gadBottom": true,
+			"gadTop": false,
+			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "0xFFef5425",
 			"fontColor": "0xFFFCFCFC",
@@ -66,14 +58,14 @@
 			"imageData": [{
 				"image": "joinmob.PNG",
 				"title": "",
-				"gadTop": true,
+				"gadTop": false,
 				"gadBottom": false,
 				"description": ""
 			}]
 
 		}, {
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": true,
 			"backgroundImage": "",
 			"bgColor": "0xFFef5425",
