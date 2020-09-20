@@ -3,7 +3,7 @@
 	"navBarImage": "",
 	"navBarItem": [{
 			"title": "How To Download",
-			"iconCode": "0xe039",
+			"iconCode": "0xe2c4",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFFFE491C",
 			"file": "HowToDownload.json"
@@ -25,7 +25,7 @@
 
 		{
 			"title": "Screen Sharing",
-			"iconCode": "0xe02f",
+			"iconCode": "0xe0e2",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFFFE491C",
 			"file": "shareScreen.json"
@@ -33,28 +33,28 @@
 
 		{
 			"title": "Changing background",
-			"iconCode": "0xe22b",
+			"iconCode": "0xeb40",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFFFE491C",
 			"file": "background.json"
 		},
 		{
 			"title": "Advanced features",
-			"iconCode": "0xe22b",
+			"iconCode": "0xe1b0",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFFFE491C",
 			"file": "advancedFetaures.json"
 		},
 		{
 			"title": "Tips",
-			"iconCode": "0xe22b",
+			"iconCode": "0xe001",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFFFE491C",
 			"file": "tips.json"
 		},
 		{
 			"title": "FAQ",
-			"iconCode": "0xe912",
+			"iconCode": "0xe339",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFFFE491C",
 			"file": "faq.json"
