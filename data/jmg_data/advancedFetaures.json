@@ -8,18 +8,10 @@
 	"data": [{
 		"title": "Advanced Features",
 		"gadTop": true,
-		"gadBottom": true,
+		"gadBottom": false,
 		"backgroundImage": "",
 		"bgColor": "0xFFef5425",
 		"fontColor": "0xFFFCFCFC",
-		"content": "JioMeet has only launched recently and because of that, there aren't that many features or even exclusive ones, that sets it apart from its competitors. While using JioMeet on your phone, you can tap More to access a few advanced features, and we've listed the best ones below.\nBy going in Meeting Settings, users can choose to Lock or Unlock a meeting. Once you've locked a meeting, more participants (apart from the ones who are already there) won't be able to join.\nBesides, you can also toggle on features such as play chime on entry or exit, show name of a participant when they join and mute participants on entry.\nFrom the meeting, the host can also mute all participants at once by hitting the Participants tab and selecting mute all.\nThe computer app is pretty barebones with the only options present being the ability to chat among participants and sharing your screens. On the other hand, the web version of JioMeet swaps the screen sharing feature with recording a meeting. ",
-		"imageData": [{
-			"image": "",
-			"title": "",
-			"gadTop": false,
-			"gadBottom": false,
-			"description": ""
-		}]
-
+		"content": "JioMeet has only launched recently and because of that, there aren't that many features or even exclusive ones, that sets it apart from its competitors. While using JioMeet on your phone, you can tap More to access a few advanced features, and we've listed the best ones below.\nBy going in Meeting Settings, users can choose to Lock or Unlock a meeting. Once you've locked a meeting, more participants (apart from the ones who are already there) won't be able to join.\nBesides, you can also toggle on features such as play chime on entry or exit, show name of a participant when they join and mute participants on entry.\nFrom the meeting, the host can also mute all participants at once by hitting the Participants tab and selecting mute all.\nThe computer app is pretty barebones with the only options present being the ability to chat among participants and sharing your screens. On the other hand, the web version of JioMeet swaps the screen sharing feature with recording a meeting. "
 	}]
 }
