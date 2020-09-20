@@ -17,7 +17,7 @@
 		{
 			"title": "",
 			"gadTop": false,
-			"gadBottom": true,
+			"gadBottom": false,
 			"bgColor": "0xFFef5425",
 			"fontColor": "0xFFFCFCFC",
 			"backgroundImage": "",
@@ -34,7 +34,7 @@
 		},
 		{
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "0xFFef5425",
