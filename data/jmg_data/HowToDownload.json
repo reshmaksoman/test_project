@@ -29,14 +29,7 @@
 			"backgroundImage": "",
 			"bgColor": "0xFFef5425",
 			"fontColor": "0xFFFCFCFC",
-			"content": " If you've already downloaded the app, then launch the app first. \nOn the home-screen, tap Sign Up > enter your name and email/ mobile number > select agree to the company's terms and conditions and tap Done.\nOn the next screen, you'll be required to enter an OTP recieved on your registered mobile number or you'll have to verify your email account by checking your mail if you chose to register via email.\nBesides, you can also sign up for JioMeet through the web. Simply visit the website, jiomeetpro.jio.com/home on Google Chrome or Firefox. Once the site is opened, select Sign Up and repeat the earlier steps.",
-			"imageData": [{
-				"image": "",
-				"title": "",
-				"gadTop": false,
-				"gadBottom": false,
-				"description": ""
-			}]
+			"content": " If you've already downloaded the app, then launch the app first. \nOn the home-screen, tap Sign Up > enter your name and email/ mobile number > select agree to the company's terms and conditions and tap Done.\nOn the next screen, you'll be required to enter an OTP recieved on your registered mobile number or you'll have to verify your email account by checking your mail if you chose to register via email.\nBesides, you can also sign up for JioMeet through the web. Simply visit the website, jiomeetpro.jio.com/home on Google Chrome or Firefox. Once the site is opened, select Sign Up and repeat the earlier steps."
 
 		}
 	]
