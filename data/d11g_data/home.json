@@ -1,0 +1,34 @@
+{
+	"title": "Home Data",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "From online class to business meets,  the 'zoom ' has become a trend in the lockdown world.   The app which had 10 million daily active users on December 2019 spiked to 200 million by march 2020. Zoom was fairly popular even before the lockdown, but lockdown restricted people within homes and almost everyone is working remotely, Zoom has gone viral. It is one of the number one free app on the Google Play Store.",
+			"imageData": [{
+				"image": "zoom-logo.jpg",
+				"title": "",
+				"gadTop": true,
+				"gadBottom": false,
+				"partisionValue": 6,
+				"description": "\nZoom is a video-calling app that is ideal for large groups because it supports up to 100 users for free. It is widely being used for meetings, online learning, and university lectures, and even get togethers. The free version of Zoom allows users to enjoy unlimited 1-on-1 meetings along with group calls featuring up to 100 participants for 40 minutes. "
+			}]
+		},
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "Though you can access zoom for free there are four packages available for Zoom.There are four plans available;the most popular now likely being the free tier,in which virtual meetings can be held with up to 100 participants, 1 - on - 1 meetings without a time limit are possible,and meetings with multiple participants can be heldfor up to 40 minutes.The free option also allows users to conduct meetings in HD video and with audio,participants can join via their PC or a telephone line,and both desktops and apps can be shared.\nPro plan which costs $15 or roughly Rs .1,150 per month.In this plan, you get all basic features, up to 100 participants and a meeting duration limit of 24 hours.Next comes the Business plan, which is priced at $20 or roughly Rs .1,530 per month and this includes up to 300 participants and no time limit on meeting durations.Finally,the Enterprise plan which is also priced $20 but this one can include up to 1000 participants."
+		}
+
+	]
+}
