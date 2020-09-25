@@ -11,6 +11,7 @@
 			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "0xFFc6131b",
+			"fontColor": "0xFFFFFFFF",
 			"content": "",
 			"imageData": [{
 				"image": "BattingPoints.png",
@@ -18,6 +19,7 @@
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
+				"fontColor": "0xFFFFFFFF",
 				"description": "\nAny player scoring a century will only get points for the century. No points will be awarded for their half-century. Additionally, no points are awarded for centuries in T10 matches."
 			},{
 				"image": "BowlingPoints.png",
@@ -25,6 +27,7 @@
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
+				"fontColor": "0xFFFFFFFF",
 				"description": ""
 			},{
 				"image": "FieldingPoints.png",
@@ -32,6 +35,7 @@
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
+				"fontColor": "0xFFFFFFFF",
 				"description": "\nIn case a run out involves 3 or more players from the fielding team, points will be awarded only to the last 2 players that caused the run out."
 			},{
 				"image": "OtherPoints.png",
@@ -39,6 +43,7 @@
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
+				"fontColor": "0xFFFFFFFF",
 				"description": ""
 			},{
 				"image": "EconomyRatePoints.png",
@@ -46,6 +51,7 @@
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
+				"fontColor": "0xFFFFFFFF",
 				"description": ""
 			},{
 				"image": "StrikeRatePoints.png",
@@ -53,6 +59,7 @@
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
+				"fontColor": "0xFFFFFFFF",
 				"description": "\nNegative points for low batting Strike Rates are only applicable for individual Strike Rates below 70 runs per 100 balls."
 			}]
 
