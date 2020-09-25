@@ -1,0 +1,59 @@
+{
+	"title": "Other Important Points",
+	"backgroundImage": "",
+	"fontColor": "0xff808000",
+	"bgColor": "0xFFFFA500",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [ {
+			"title": "",
+			"gadTop": false,
+			"gadBottom": false,
+			"backgroundImage": "",
+			"bgColor": "",
+			"content": "Substitutes on the field will not be awarded points for any contribution they make. However, Concussion and COVID-19 Substitutes (if permitted as per the applicable rules and regulations of the tournament) will be awarded 4 points for making an appearance in a match and will be awarded points any contribution they make as per the Fantasy Points System."
+		},{
+			"title": "",
+			"gadTop": false,
+			"gadBottom": false,
+			"backgroundImage": "",
+			"bgColor": "",
+			"content": "A player who has been transferred from one team to the other might still be available for selection for his older team until the next scheduled team update on Dream11. However, no points will be attributed to the player in such a situation."
+		},{
+			"title": "",
+			"gadTop": false,
+			"gadBottom": false,
+			"backgroundImage": "",
+			"bgColor": "",
+			"content": "If a player is announced in the starting eleven of a team but later is unable to start the match, he/she will not score any points. The player who plays as the replacement, however, will earn points for the match (including starting points)."
+		},{
+			"title": "",
+			"gadTop": false,
+			"gadBottom": false,
+			"backgroundImage": "",
+			"bgColor": "",
+			"content": "No points will be awarded for any actions during a Super Over."
+		},{
+			"title": "",
+			"gadTop": false,
+			"gadBottom": false,
+			"backgroundImage": "",
+			"bgColor": "",
+			"content": "Data is provided by reliable sources and once the match has been marked as completed i.e., winners have been declared, no further adjustments will be made. Points awarded live in-game are subject to change as long as the match status is 'In progress' or 'Waiting for review'."
+		},{
+			"title": "",
+			"gadTop": false,
+			"gadBottom": false,
+			"backgroundImage": "",
+			"bgColor": "",
+			"content": "More than 11 players from either team are allowed to play in Other OD/Other T20 matches."
+		},{
+			"title": "",
+			"gadTop": false,
+			"gadBottom": false,
+			"backgroundImage": "",
+			"bgColor": "",
+			"content": "There are no negative points for low Strike Rate in Test matches."
+		}
+	]
+}
