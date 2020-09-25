@@ -70,7 +70,7 @@
 			"gadTop": true,
 			"gadBottom": false,
 			"backgroundImage": "contest.mp4",
-			"bgColor": "0xFF90CAF9",
+			"bgColor": "",
 			"content": "We have many different contest formats for you to join. Choose between free and paid contests, or even create a new private contest just for you and your friends. You play your way! \n\n Contests can be filtered and sorted by Entry Fee, Number of Teams, Prize Pool and Style of Play. Picking the right contest often helps you win big, so choose wisely!"
 		},
 
@@ -79,14 +79,14 @@
 			"gadTop": true,
 			"gadBottom": false,
 			"backgroundImage": "wid_follow_match.mp4",
-			"bgColor": "0xFF90CAF9",
+			"bgColor": "",
 			"content": "Once a match is live, you can follow your contests leaderboards to see how you’re performing against your competition. \n\nWhat’s more, you can even chat with them in real-time through our Contest Chat feature."
 		},
 
 		{
 			"title": "Withdrawing your winnings",
 			"gadTop": false,
-			"gadBottom": false,
+			"gadBottom": true,
 			"backgroundImage": "",
 			"bgColor": "0xFF90CAF9",
 			"content": "After a match ends, if you’re in the winning zone for a contest, then your contest winnings are transferred to your account. \n\nUse them to join more contests, or withdraw it and celebrate your success!. \n\nFind more details about your account balance, add cash and initiate withdrawals from the My Balance tab on the left-side menu of the app."
