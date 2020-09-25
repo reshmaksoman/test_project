@@ -4,22 +4,22 @@
 	"navBarItem": [{
 			"title": "Creating Your Team",
 			"iconCode": "0xe2c4",
-			"fontColor": "0xFFc6131b",
-			"bgColor": "0xFF3B7BFC ",
+			"fontColor": "0xFFFFFFFF",
+			"bgColor": "0xFFc6131b ",
 			"file": "create_your_team.json"
 		},
 		{
 			"title": "Fantasy Points System",
 			"iconCode": "0xe566",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF3B7BFC",
+			"bgColor": "0xFFc6131b",
 			"file": "FantasyPointsSystem.json"
 		},
 		{
 			"title": "Other Important Points",
 			"iconCode": "0xe912",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF3B7BFC",
+			"bgColor": "0xFFc6131b",
 			"file": "OtherImportantPoints.json"
 		},
 
@@ -27,7 +27,7 @@
 			"title": "Plans",
 			"iconCode": "0xe53b",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF3B7BFC",
+			"bgColor": "0xFFc6131b",
 			"file": "plans.json"
 		},
 
@@ -35,28 +35,28 @@
 			"title": "Virtual Background",
 			"iconCode": "0xe3f8",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF3B7BFC",
+			"bgColor": "0xFFc6131b",
 			"file": "virtualBg.json"
 		},
 		{
 			"title": "Virtual Classroom",
 			"iconCode": "0xe53b",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF3B7BFC",
+			"bgColor": "0xFFc6131b",
 			"file": "virtualClassRoom.json"
 		},
 		{
 			"title": "Shortcuts",
 			"iconCode": "0xe53b",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF3B7BFC",
+			"bgColor": "0xFFc6131b",
 			"file": "shortcuts.json"
 		},
 		{
 			"title": "FAQ",
 			"iconCode": "0xe887",
 			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFF3B7BFC",
+			"bgColor": "0xFFc6131b",
 			"file": "faq.json"
 		}
 	]
