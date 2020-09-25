@@ -1,0 +1,33 @@
+{
+	"title": "FAQ",
+	"backgroundImage": "",
+	"fontColor": "0xFFFFFFFF",
+	"bgColor": "0xFFc6131b",
+	"giad": true,
+	"giadIntrevel": 150,
+	"data": [{
+		"title": "What is Fantasy Cricket?",
+		"gadTop": false,
+		"gadBottom": false,
+		"backgroundImage": "",
+		"bgColor": "0xFFc6131b",
+		"fontColor": "0xFFFFFFFF",
+		"content": "Think you can tell which players will perform well in a cricket match? Dream11 is the place for you! \n\nOn Dream11, you can create your fantasy cricket team for a real-life match and compete with other players for big prizes. Remember, there are cash prizes for every match, so you create your fantasy teams and win real money every day."
+	},{
+		"title": "Can I actually win money on Dream11?",
+		"gadTop": false,
+		"gadBottom": false,
+		"backgroundImage": "",
+		"bgColor": "0xFFc6131b",
+		"fontColor": "0xFFFFFFFF",
+		"content": "Absolutely! Lots of players have already won big prizes on Dream11 and you can too. We host different kinds of cash contests, each with its own entry fee and prize money.\n\nChoose a contest that you want to play, defeat the competition, and celebrate big wins!"
+	},{
+		"title": "Is it safe to add money to Dream11?",
+		"gadTop": false,
+		"gadBottom": false,
+		"backgroundImage": "",
+		"bgColor": "0xFFc6131b",
+		"fontColor": "0xFFFFFFFF",
+		"content": "Adding money to your Dream11 account is both simple and safe. We have many different payment options enabled on Dream11 and work hard to ensure that your personal details are safe with us.\n\nWhat's more, after you verify your personal details, you can withdraw the money that you win on Dream11 directly to your bank account."
+	}]
+}
