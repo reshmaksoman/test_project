@@ -9,11 +9,11 @@
 			"file": "create_your_team.json"
 		},
 		{
-			"title": "Hosting/Joining a meeting",
+			"title": "Fantasy Points System",
 			"iconCode": "0xe566",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF3B7BFC",
-			"file": "hostJoin.json"
+			"file": "FantasyPointsSystem.json"
 		},
 		{
 			"title": "Control A Meeting",
