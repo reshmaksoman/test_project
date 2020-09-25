@@ -11,23 +11,84 @@
 			"gadBottom": true,
 			"backgroundImage": "",
 			"bgColor": "0xFF90CAF9",
-			"content": "From online class to business meets,  the 'zoom ' has become a trend in the lockdown world.   The app which had 10 million daily active users on December 2019 spiked to 200 million by march 2020. Zoom was fairly popular even before the lockdown, but lockdown restricted people within homes and almost everyone is working remotely, Zoom has gone viral. It is one of the number one free app on the Google Play Store.",
+			"content": "Dream11 is a Game of Skill where you create a team of real players for an upcoming match and compete with other fans for big prizes.",
 			"imageData": [{
-				"image": "zoom-logo.jpg",
+				"image": "what-is-d11-steps.png",
 				"title": "",
 				"gadTop": true,
 				"gadBottom": false,
 				"partisionValue": 6,
-				"description": "\nZoom is a video-calling app that is ideal for large groups because it supports up to 100 users for free. It is widely being used for meetings, online learning, and university lectures, and even get togethers. The free version of Zoom allows users to enjoy unlimited 1-on-1 meetings along with group calls featuring up to 100 participants for 40 minutes. "
+				"description": "\nYour team earns points based on your players’ performances in the real-life match, so make sure you make the right choices!"
+			}, {
+				"image": "select-a-match.mp4",
+				"title": "1. Select A Match",
+				"gadTop": true,
+				"gadBottom": false,
+				"partisionValue": 6,
+				"description": "\nDream11 hosts games across many different sports. Click on an upcoming match you want to play and keep an eye on the match deadline."
+			}, {
+				"image": "create_team.mp4",
+				"title": "2. Create Your Teams",
+				"gadTop": true,
+				"gadBottom": false,
+				"partisionValue": 6,
+				"description": "\nUse your knowledge of sports to pick a team within a budget of 100 credits who you think will score the most points for the selected match."
 			}]
 		},
 		{
-			"title": "",
+			"title": "What are credits?",
 			"gadTop": true,
 			"gadBottom": true,
 			"backgroundImage": "",
 			"bgColor": "0xFF90CAF9",
-			"content": "Though you can access zoom for free there are four packages available for Zoom.There are four plans available;the most popular now likely being the free tier,in which virtual meetings can be held with up to 100 participants, 1 - on - 1 meetings without a time limit are possible,and meetings with multiple participants can be heldfor up to 40 minutes.The free option also allows users to conduct meetings in HD video and with audio,participants can join via their PC or a telephone line,and both desktops and apps can be shared.\nPro plan which costs $15 or roughly Rs .1,150 per month.In this plan, you get all basic features, up to 100 participants and a meeting duration limit of 24 hours.Next comes the Business plan, which is priced at $20 or roughly Rs .1,530 per month and this includes up to 300 participants and no time limit on meeting durations.Finally,the Enterprise plan which is also priced $20 but this one can include up to 1000 participants."
+			"content": "Credits are the cost of a player. In-form and star players typically cost more credits, while inexperienced or non-regular players cost less."
+		},
+		{
+			"title": "What are Fantasy Points?",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "Fantasy Points are earned by real-life players on the basis of their performances in a match. \n\nFor example, players earn points for scoring runs, taking wickets, etc. (cricket), scoring goals, making assists, etc. (football) and similar actions for other sports. \n\n You can check out the Fantasy Points System under each sport for more details."
+		},
+		{
+			"title": "Can I edit my team after I create it?",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "You can edit your team as many times as you like before the match deadline. Go to My Teams on the match page to check all the teams you have created. \n\n Use the Player Info, Teams Selected By (% Sel By) and Tour Points on the Create Team page to understand the competition and find your winning combination."
+		},
+		{
+			"title": "3. Join Contests",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "",
+			"imageData": [{
+				"image": "contest.mp4",
+				"title": "3. Join Contests",
+				"gadTop": true,
+				"gadBottom": false,
+				"partisionValue": 6,
+				"description": "\nWe have many different contest formats for you to join. Choose between free and paid contests, or even create a new private contest just for you and your friends. You play your way! \n\n Contests can be filtered and sorted by Entry Fee, Number of Teams, Prize Pool and Style of Play. Picking the right contest often helps you win big, so choose wisely!"
+			}, {
+				"image": "wid_follow_match.mp4",
+				"title": "4. Follow the match",
+				"gadTop": true,
+				"gadBottom": false,
+				"partisionValue": 6,
+				"description": "\nOnce a match is live, you can follow your contests leaderboards to see how you’re performing against your competition. \n\nWhat’s more, you can even chat with them in real-time through our Contest Chat feature."
+			}]
+		},
+		{
+			"title": "Withdrawing your winnings",
+			"gadTop": true,
+			"gadBottom": true,
+			"backgroundImage": "",
+			"bgColor": "0xFF90CAF9",
+			"content": "After a match ends, if you’re in the winning zone for a contest, then your contest winnings are transferred to your account. \n\nUse them to join more contests, or withdraw it and celebrate your success!. \n\nFind more details about your account balance, add cash and initiate withdrawals from the My Balance tab on the left-side menu of the app."
 		}
 
 	]
