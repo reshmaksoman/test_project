@@ -24,33 +24,11 @@
 		},
 
 		{
-			"title": "Plans",
+			"title": "Tips and Tricks",
 			"iconCode": "0xe53b",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFFc6131b",
-			"file": "plans.json"
-		},
-
-		{
-			"title": "Virtual Background",
-			"iconCode": "0xe3f8",
-			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFFc6131b",
-			"file": "virtualBg.json"
-		},
-		{
-			"title": "Virtual Classroom",
-			"iconCode": "0xe53b",
-			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFFc6131b",
-			"file": "virtualClassRoom.json"
-		},
-		{
-			"title": "Shortcuts",
-			"iconCode": "0xe53b",
-			"fontColor": "0xFFFFFFFF",
-			"bgColor": "0xFFc6131b",
-			"file": "shortcuts.json"
+			"file": "tip.json"
 		},
 		{
 			"title": "FAQ",
