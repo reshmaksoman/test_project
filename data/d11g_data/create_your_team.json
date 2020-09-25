@@ -20,11 +20,11 @@
 			"bgColor": "",
 			"content": "Your Dream11 can have different combinations of players, but has to be within the 100 credit cap and must qualify the following team selection criteria",
 			"imageData": [{
-				"image": "",
+				"image": "PlayerCombinations.png",
 				"title": "",
 				"gadTop": false,
 				"gadBottom": false,
-				"partisionValue": 4,
+				"partisionValue": 1,
 				"description": ""
 			}]
 
