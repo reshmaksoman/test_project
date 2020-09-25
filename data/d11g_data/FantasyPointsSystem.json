@@ -5,38 +5,57 @@
 	"bgColor": "0xFFFFA500",
 	"giad": true,
 	"giadIntrevel": 150,
-	"data": [{
-			"title": "",
-			"gadTop": true,
-			"gadBottom": false,
-			"backgroundImage": "",
-			"bgColor": "0xFF90CAF9",
-			"content": "\n\nEvery cricket team you build on Dream11 has to have 11 players, of which a maximum of 7 players can be from any one team playing the real-life match."
-		}, {
+	"data": [ {
 			"title": "Player Combinations",
 			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "",
-			"content": "Your Dream11 can have different combinations of players, but has to be within the 100 credit cap and must qualify the following team selection criteria",
+			"content": "",
 			"imageData": [{
-				"image": "PlayerCombinations.png",
+				"image": "BattingPoints.png",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"partisionValue": 4,
+				"description": "\nAny player scoring a century will only get points for the century. No points will be awarded for their half-century. Additionally, no points are awarded for centuries in T10 matches."
+			},{
+				"image": "BowlingPoints.png",
 				"title": "",
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
 				"description": ""
+			},{
+				"image": "FieldingPoints.png",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"partisionValue": 4,
+				"description": ""
+			},{
+				"image": "OtherPoints.png",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"partisionValue": 4,
+				"description": "\nAny player scoring a century will only get points for the century. No points will be awarded for their half-century. Additionally, no points are awarded for centuries in T10 matches."
+			},{
+				"image": "EconomyRatePoints.png",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"partisionValue": 4,
+				"description": "\nAny player scoring a century will only get points for the century. No points will be awarded for their half-century. Additionally, no points are awarded for centuries in T10 matches."
+			},{
+				"image": "StrikeRatePoints.png",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"partisionValue": 4,
+				"description": "\nAny player scoring a century will only get points for the century. No points will be awarded for their half-century. Additionally, no points are awarded for centuries in T10 matches."
 			}]
 
-		},
-
-		{
-			"title": "Captain and Vice-Captain Points",
-			"gadTop": false,
-			"gadBottom": true,
-			"backgroundImage": "select-a-match.mp4",
-			"bgColor": "",
-			"content": "Once you have selected your 11 players, you will have to assign a captain and vice-captain for your team. \n\nThe captain will give you 2x points scored by them in the actual match. \n\nThe vice-captain will give you 1.5x points scored by them in the actual match."
 		}
 	]
 }
