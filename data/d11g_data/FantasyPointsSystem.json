@@ -14,46 +14,46 @@
 			"content": "",
 			"imageData": [{
 				"image": "BattingPoints.png",
-				"title": "",
+				"title": "Batting Points",
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
 				"description": "\nAny player scoring a century will only get points for the century. No points will be awarded for their half-century. Additionally, no points are awarded for centuries in T10 matches."
 			},{
 				"image": "BowlingPoints.png",
-				"title": "",
+				"title": "Bowling Points",
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
 				"description": ""
 			},{
 				"image": "FieldingPoints.png",
-				"title": "",
+				"title": "Fielding Points",
+				"gadTop": false,
+				"gadBottom": false,
+				"partisionValue": 4,
+				"description": "\nIn case a run out involves 3 or more players from the fielding team, points will be awarded only to the last 2 players that caused the run out."
+			},{
+				"image": "OtherPoints.png",
+				"title": "Other Points",
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
 				"description": ""
 			},{
-				"image": "OtherPoints.png",
-				"title": "",
-				"gadTop": false,
-				"gadBottom": false,
-				"partisionValue": 4,
-				"description": "\nAny player scoring a century will only get points for the century. No points will be awarded for their half-century. Additionally, no points are awarded for centuries in T10 matches."
-			},{
 				"image": "EconomyRatePoints.png",
-				"title": "",
+				"title": "Economy Rate Points",
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
-				"description": "\nAny player scoring a century will only get points for the century. No points will be awarded for their half-century. Additionally, no points are awarded for centuries in T10 matches."
+				"description": ""
 			},{
 				"image": "StrikeRatePoints.png",
-				"title": "",
+				"title": "Strike Rate (Except Bowler) Points",
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
-				"description": "\nAny player scoring a century will only get points for the century. No points will be awarded for their half-century. Additionally, no points are awarded for centuries in T10 matches."
+				"description": "\nNegative points for low batting Strike Rates are only applicable for individual Strike Rates below 70 runs per 100 balls."
 			}]
 
 		}
