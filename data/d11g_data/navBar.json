@@ -4,7 +4,7 @@
 	"navBarItem": [{
 			"title": "Creating Your Team",
 			"iconCode": "0xe2c4",
-			"fontColor": "0xFFFFFFFF",
+			"fontColor": "0xFFc6131b",
 			"bgColor": "0xFF3B7BFC ",
 			"file": "create_your_team.json"
 		},
