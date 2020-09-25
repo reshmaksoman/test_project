@@ -1,8 +1,8 @@
 {
 	"title": "Fantasy Points System",
 	"backgroundImage": "",
-	"fontColor": "0xff808000",
-	"bgColor": "0xFFFFA500",
+	"fontColor": "0xFFFFFFFF",
+	"bgColor": "0xFFc6131b",
 	"giad": true,
 	"giadIntrevel": 150,
 	"data": [ {
