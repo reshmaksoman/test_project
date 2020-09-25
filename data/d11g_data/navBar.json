@@ -2,11 +2,11 @@
 	"navBarTitle": "",
 	"navBarImage": "",
 	"navBarItem": [{
-			"title": "How To Download",
+			"title": "Creating Your Team",
 			"iconCode": "0xe2c4",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF3B7BFC ",
-			"file": "HowtoDownload.json"
+			"file": "create_your_team.json"
 		},
 		{
 			"title": "Hosting/Joining a meeting",
