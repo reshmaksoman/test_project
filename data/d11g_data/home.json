@@ -18,14 +18,23 @@
 			"title": "",
 			"gadTop": true,
 			"gadBottom": false,
-			"backgroundImage": "what-is-d11-steps.png",
+			"backgroundImage": "",
 			"bgColor": "",
-			"content": "Your team earns points based on your players’ performances in the real-life match, so make sure you make the right choices!"
+			"content": "Your team earns points based on your players’ performances in the real-life match, so make sure you make the right choices!",
+			"imageData": [{
+				"image": "what-is-d11-steps.png",
+				"title": "",
+				"gadTop": false,
+				"gadBottom": false,
+				"partisionValue": 4,
+				"description": ""
+			}]
+
 		},
 
 		{
 			"title": "1. Select A Match",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "select-a-match.mp4",
 			"bgColor": "",
@@ -34,7 +43,7 @@
 
 		{
 			"title": "2. Create Your Teams",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "create_team.mp4",
 			"bgColor": "",
@@ -70,16 +79,16 @@
 			"gadTop": true,
 			"gadBottom": false,
 			"backgroundImage": "contest.mp4",
-			"bgColor": "",
+			"bgColor": "0xFF90CAF9",
 			"content": "We have many different contest formats for you to join. Choose between free and paid contests, or even create a new private contest just for you and your friends. You play your way! \n\n Contests can be filtered and sorted by Entry Fee, Number of Teams, Prize Pool and Style of Play. Picking the right contest often helps you win big, so choose wisely!"
 		},
 
 		{
 			"title": "4. Follow the match",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "wid_follow_match.mp4",
-			"bgColor": "",
+			"bgColor": "0xFF90CAF9",
 			"content": "Once a match is live, you can follow your contests leaderboards to see how you’re performing against your competition. \n\nWhat’s more, you can even chat with them in real-time through our Contest Chat feature."
 		},
 
