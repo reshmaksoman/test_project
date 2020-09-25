@@ -9,32 +9,38 @@
 			"title": "",
 			"gadTop": true,
 			"gadBottom": false,
-			"backgroundImage": "what-is-d11-steps.png",
+			"backgroundImage": "",
 			"bgColor": "0xFF90CAF9",
-			"content": "Dream11 is a Game of Skill where you create a team of real players for an upcoming match and compete with other fans for big prizes.",
-			"imageData": [{
-				"image": "what-is-d11-steps.png",
-				"title": "",
-				"gadTop": false,
-				"gadBottom": false,
-				"partisionValue": 6,
-				"description": "\nYour team earns points based on your players’ performances in the real-life match, so make sure you make the right choices!"
-			}, {
-				"image": "select-a-match.mp4",
-				"title": "1. Select A Match",
-				"gadTop": false,
-				"gadBottom": false,
-				"partisionValue": 6,
-				"description": "\nDream11 hosts games across many different sports. Click on an upcoming match you want to play and keep an eye on the match deadline."
-			}, {
-				"image": "create_team.mp4",
-				"title": "2. Create Your Teams",
-				"gadTop": false,
-				"gadBottom": false,
-				"partisionValue": 6,
-				"description": "\nUse your knowledge of sports to pick a team within a budget of 100 credits who you think will score the most points for the selected match."
-			}]
+			"content": "Dream11 is a Game of Skill where you create a team of real players for an upcoming match and compete with other fans for big prizes."
 		},
+
+		{
+			"title": "",
+			"gadTop": true,
+			"gadBottom": false,
+			"backgroundImage": "what-is-d11-steps.png",
+			"bgColor": "",
+			"content": "Your team earns points based on your players’ performances in the real-life match, so make sure you make the right choices!"
+		},
+
+		{
+			"title": "1. Select A Match",
+			"gadTop": true,
+			"gadBottom": false,
+			"backgroundImage": "select-a-match.mp4",
+			"bgColor": "",
+			"content": "Dream11 hosts games across many different sports. Click on an upcoming match you want to play and keep an eye on the match deadline."
+		},
+
+		{
+			"title": "2. Create Your Teams",
+			"gadTop": true,
+			"gadBottom": false,
+			"backgroundImage": "create_team.mp4",
+			"bgColor": "",
+			"content": "Use your knowledge of sports to pick a team within a budget of 100 credits who you think will score the most points for the selected match."
+		},
+
 		{
 			"title": "What are credits?",
 			"gadTop": false,
@@ -63,25 +69,20 @@
 			"title": "3. Join Contests",
 			"gadTop": true,
 			"gadBottom": false,
-			"backgroundImage": "",
+			"backgroundImage": "contest.mp4",
 			"bgColor": "0xFF90CAF9",
-			"content": "",
-			"imageData": [{
-				"image": "contest.mp4",
-				"title": "3. Join Contests",
-				"gadTop": false,
-				"gadBottom": false,
-				"partisionValue": 6,
-				"description": "\nWe have many different contest formats for you to join. Choose between free and paid contests, or even create a new private contest just for you and your friends. You play your way! \n\n Contests can be filtered and sorted by Entry Fee, Number of Teams, Prize Pool and Style of Play. Picking the right contest often helps you win big, so choose wisely!"
-			}, {
-				"image": "wid_follow_match.mp4",
-				"title": "4. Follow the match",
-				"gadTop": false,
-				"gadBottom": false,
-				"partisionValue": 6,
-				"description": "\nOnce a match is live, you can follow your contests leaderboards to see how you’re performing against your competition. \n\nWhat’s more, you can even chat with them in real-time through our Contest Chat feature."
-			}]
+			"content": "We have many different contest formats for you to join. Choose between free and paid contests, or even create a new private contest just for you and your friends. You play your way! \n\n Contests can be filtered and sorted by Entry Fee, Number of Teams, Prize Pool and Style of Play. Picking the right contest often helps you win big, so choose wisely!"
 		},
+
+		{
+			"title": "4. Follow the match",
+			"gadTop": true,
+			"gadBottom": false,
+			"backgroundImage": "wid_follow_match.mp4",
+			"bgColor": "0xFF90CAF9",
+			"content": "Once a match is live, you can follow your contests leaderboards to see how you’re performing against your competition. \n\nWhat’s more, you can even chat with them in real-time through our Contest Chat feature."
+		},
+
 		{
 			"title": "Withdrawing your winnings",
 			"gadTop": false,
