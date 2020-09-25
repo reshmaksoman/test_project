@@ -2,7 +2,7 @@
 	"title": "Home Data",
 	"backgroundImage": "",
 	"fontColor": "0xff808000",
-	"bgColor": "0xFFFFA500",
+	"bgColor": "0xFFc6131b",
 	"giad": true,
 	"giadIntrevel": 150,
 	"data": [{
@@ -19,7 +19,7 @@
 			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "",
-			"bgColor": "",
+			"bgColor": "0xFFc6131b",
 			"content": "Your team earns points based on your players’ performances in the real-life match, so make sure you make the right choices!",
 			"imageData": [{
 				"image": "what-is-d11-steps.png",
@@ -36,8 +36,8 @@
 			"title": "1. Select A Match",
 			"gadTop": false,
 			"gadBottom": false,
-			"backgroundImage": "select-a-match.mp4",
-			"bgColor": "",
+			"backgroundImage": "",
+			"bgColor": "0xFFc6131b",
 			"content": "Dream11 hosts games across many different sports. Click on an upcoming match you want to play and keep an eye on the match deadline."
 		},
 
@@ -45,8 +45,8 @@
 			"title": "2. Create Your Teams",
 			"gadTop": false,
 			"gadBottom": false,
-			"backgroundImage": "create_team.mp4",
-			"bgColor": "",
+			"backgroundImage": "",
+			"bgColor": "0xFFc6131b",
 			"content": "Use your knowledge of sports to pick a team within a budget of 100 credits who you think will score the most points for the selected match."
 		},
 
@@ -55,7 +55,7 @@
 			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "",
-			"bgColor": "0xFF90CAF9",
+			"bgColor": "0xFFc6131b",
 			"content": "Credits are the cost of a player. In-form and star players typically cost more credits, while inexperienced or non-regular players cost less."
 		},
 		{
@@ -63,7 +63,7 @@
 			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "",
-			"bgColor": "0xFF90CAF9",
+			"bgColor": "0xFFc6131b",
 			"content": "Fantasy Points are earned by real-life players on the basis of their performances in a match. \n\nFor example, players earn points for scoring runs, taking wickets, etc. (cricket), scoring goals, making assists, etc. (football) and similar actions for other sports. \n\n You can check out the Fantasy Points System under each sport for more details."
 		},
 		{
@@ -71,15 +71,15 @@
 			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "",
-			"bgColor": "0xFF90CAF9",
+			"bgColor": "0xFFc6131b",
 			"content": "You can edit your team as many times as you like before the match deadline. Go to My Teams on the match page to check all the teams you have created. \n\n Use the Player Info, Teams Selected By (% Sel By) and Tour Points on the Create Team page to understand the competition and find your winning combination."
 		},
 		{
 			"title": "3. Join Contests",
 			"gadTop": true,
 			"gadBottom": false,
-			"backgroundImage": "contest.mp4",
-			"bgColor": "0xFF90CAF9",
+			"backgroundImage": "",
+			"bgColor": "0xFFc6131b",
 			"content": "We have many different contest formats for you to join. Choose between free and paid contests, or even create a new private contest just for you and your friends. You play your way! \n\n Contests can be filtered and sorted by Entry Fee, Number of Teams, Prize Pool and Style of Play. Picking the right contest often helps you win big, so choose wisely!"
 		},
 
@@ -87,8 +87,8 @@
 			"title": "4. Follow the match",
 			"gadTop": false,
 			"gadBottom": false,
-			"backgroundImage": "wid_follow_match.mp4",
-			"bgColor": "0xFF90CAF9",
+			"backgroundImage": "",
+			"bgColor": "0xFFc6131b",
 			"content": "Once a match is live, you can follow your contests leaderboards to see how you’re performing against your competition. \n\nWhat’s more, you can even chat with them in real-time through our Contest Chat feature."
 		},
 
@@ -97,7 +97,7 @@
 			"gadTop": false,
 			"gadBottom": true,
 			"backgroundImage": "",
-			"bgColor": "0xFF90CAF9",
+			"bgColor": "0xFFc6131b",
 			"content": "After a match ends, if you’re in the winning zone for a contest, then your contest winnings are transferred to your account. \n\nUse them to join more contests, or withdraw it and celebrate your success!. \n\nFind more details about your account balance, add cash and initiate withdrawals from the My Balance tab on the left-side menu of the app."
 		}
 
