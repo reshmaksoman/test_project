@@ -16,11 +16,11 @@
 			"file": "FantasyPointsSystem.json"
 		},
 		{
-			"title": "Control A Meeting",
+			"title": "Other Important Points",
 			"iconCode": "0xe912",
 			"fontColor": "0xFFFFFFFF",
 			"bgColor": "0xFF3B7BFC",
-			"file": "ControlMeeting.json"
+			"file": "OtherImportantPoints.json"
 		},
 
 		{
