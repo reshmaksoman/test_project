@@ -10,7 +10,7 @@
 			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "",
-			"bgColor": "",
+			"bgColor": "0xFFc6131b",
 			"content": "",
 			"imageData": [{
 				"image": "BattingPoints.png",
