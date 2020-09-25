@@ -11,12 +11,12 @@
 			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "0xFF90CAF9",
-			"content": "Dream11 is a Game of Skill where you create a team of real players for an upcoming match and compete with other fans for big prizes."
+			"content": "\nDream11 is a Game of Skill where you create a team of real players for an upcoming match and compete with other fans for big prizes."
 		},
 
 		{
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "",
