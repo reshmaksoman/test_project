@@ -7,7 +7,7 @@
 	"giadIntrevel": 150,
 	"data": [ {
 			"title": "",
-			"gadTop": false,
+			"gadTop": true,
 			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "",
@@ -50,7 +50,7 @@
 		},{
 			"title": "",
 			"gadTop": false,
-			"gadBottom": false,
+			"gadBottom": true,
 			"backgroundImage": "",
 			"bgColor": "",
 			"content": "There are no negative points for low Strike Rate in Test matches."
