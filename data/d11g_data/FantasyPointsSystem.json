@@ -24,6 +24,7 @@
 			},{
 				"image": "BowlingPoints.png",
 				"title": "Bowling Points",
+				"isFullScreen": true,
 				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 4,
