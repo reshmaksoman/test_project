@@ -8,7 +8,7 @@
 	"data": [{
 			"title": "",
 			"gadTop": true,
-			"gadBottom": true,
+			"gadBottom": false,
 			"backgroundImage": "",
 			"bgColor": "0xFFef5425",
 			"fontColor": "0xFFFCFCFC",
@@ -16,7 +16,7 @@
 			"imageData": [{
 				"image": "logo.png",
 				"title": "",
-				"gadTop": true,
+				"gadTop": false,
 				"gadBottom": false,
 				"partisionValue": 6,
 				"description": ""
@@ -24,7 +24,7 @@
 		},
 		{
 			"title": "",
-			"gadTop": true,
+			"gadTop": false,
 			"gadBottom": true,
 			"backgroundImage": "",
 			"bgColor": "0xFFef5425",
